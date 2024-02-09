@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/TopDown/TopDown/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/TopDown/TopDown/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Input/IMC_Default.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset"
 			]
 		}
 	]
