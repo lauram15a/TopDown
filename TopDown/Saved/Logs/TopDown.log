@@ -3523,3 +3523,92 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.02.09-17.54.24:570][981]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TopDown/Pistol/pistol.pistol
 [2024.02.09-17.54.24:570][981]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Pistol/pistolcolor.pistolcolor
 [2024.02.09-17.54.24:570][981]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/Pistol/pistolv2.pistolv2
+[2024.02.09-17.55.12:308][511]LogViewport: Scene viewport resized to 1006x666, mode Windowed.
+[2024.02.09-17.55.12:407][511]LogViewport: Scene viewport resized to 1070x666, mode Windowed.
+[2024.02.09-17.55.12:489][511]LogViewport: Scene viewport resized to 1136x666, mode Windowed.
+[2024.02.09-17.55.12:575][511]LogViewport: Scene viewport resized to 1224x666, mode Windowed.
+[2024.02.09-17.55.12:676][511]LogViewport: Scene viewport resized to 1267x666, mode Windowed.
+[2024.02.09-17.55.12:773][511]LogViewport: Scene viewport resized to 1310x666, mode Windowed.
+[2024.02.09-17.55.12:857][511]LogViewport: Scene viewport resized to 1353x666, mode Windowed.
+[2024.02.09-17.55.13:886][563]LogViewport: Scene viewport resized to 2035x670, mode Windowed.
+[2024.02.09-17.55.52:348][710]LogContentBrowser: Deferred new asset file creation: pistol_Inst
+[2024.02.09-17.55.52:390][710]LogContentBrowser: Creating deferred item: pistol_Inst
+[2024.02.09-17.55.52:429][711]LogContentBrowser: Renaming the item being created (Deferred Item: pistol_Inst).
+[2024.02.09-17.56.00:591][815]LogContentBrowser: Attempting asset rename: pistol_Inst -> pistol_Inst
+[2024.02.09-17.56.00:593][815]LogContentBrowser: End creating deferred item pistol_Inst
+[2024.02.09-17.56.31:702][670]LogContentBrowser: Attempting asset rename: pistol_Inst -> M_pistol_Inst
+[2024.02.09-17.56.32:710][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-17.56.32:845][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/M_pistol_Inst" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Pistol/M_pistol_Inst.uasset" SILENT=true
+[2024.02.09-17.56.32:847][670]LogSavePackage: Moving output files for package: /Game/TopDown/Pistol/M_pistol_Inst
+[2024.02.09-17.56.32:847][670]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/M_pistol_Inst1F71CFAD43988E60689ED999B6774B7E.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Pistol/M_pistol_Inst.uasset'
+[2024.02.09-17.56.32:864][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 8.36 sec)
+[2024.02.09-17.56.32:894][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.02.09-17.56.32:917][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.09-17.56.32:940][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.09-17.56.32:942][670]AssetCheck: New page: Asset Save: M_pistol_Inst
+[2024.02.09-17.56.32:942][670]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/TopDown/Pistol/M_pistol_Inst.M_pistol_Inst
+[2024.02.09-17.56.43:911][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.02.09-17.56.45:878][836]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.09-17.56.45:922][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.02.09-17.56.45:953][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.02.09-17.56.45:975][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.09-17.56.49:505][987]LogContentBrowser: Deferred new asset file creation: pistolcolor_Mat
+[2024.02.09-17.56.49:558][987]LogContentBrowser: Creating deferred item: pistolcolor_Mat
+[2024.02.09-17.56.49:573][988]LogContentBrowser: Renaming the item being created (Deferred Item: pistolcolor_Mat).
+[2024.02.09-17.56.51:665][ 95]LogContentBrowser: Attempting asset rename: pistolcolor_Mat -> pistolcolor_Mat
+[2024.02.09-17.56.51:719][ 95]LogContentBrowser: End creating deferred item pistolcolor_Mat
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: ================================================
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Total job queries 48, among them cache hits 18 (37.50%)
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Tracking 27 distinct input hashes that result in 22 distinct outputs (81.48%)
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: RAM used: 654,25 KiB of 819,20 MiB budget. Usage: 0.08%
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Shaders Compiled: 27
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Jobs assigned 30, completed 27 (90.00%)
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Average time worker was idle: 68.22 s
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Time job spent in pending queue: average 0.88 s, longest 3.65 s
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 3.43 s
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Job life time (pending + execution): average 1.98 s, max 4.26
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Shader code size: average 38,208 KiB, min 4,465 KiB, max 60,766 KiB
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.93 s
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Average processing rate: 3.41 jobs/sec
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Total thread time: 13,409 s
+[2024.02.09-17.56.52:722][142]LogShaderCompilers: Display: Total thread preprocess time: 1,496 s
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display: Percentage time preprocessing: 11.16%
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display: Effective parallelization: 1.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.65 sec, max 0.72 sec, min 0.53 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.61 sec, max 0.64 sec, min 0.59 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.52 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.65% of total time (compiled    3 times, average 0.65 sec, max 0.72 sec, min 0.53 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.77% of total time (compiled    3 times, average 0.53 sec, max 0.60 sec, min 0.48 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                                  FVelocityVS - 9.17% of total time (compiled    2 times, average 0.61 sec, max 0.64 sec, min 0.59 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                                  FHitProxyVS - 8.20% of total time (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.52 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.51% of total time (compiled    1 times, average 0.61 sec, max 0.61 sec, min 0.61 sec)
+[2024.02.09-17.56.52:723][142]LogShaderCompilers: Display: ================================================
+[2024.02.09-17.56.59:756][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.02.09-17.57.00:968][179]LogSlate: Window 'Save Content' being destroyed
+[2024.02.09-17.57.00:986][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-17.57.02:942][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/pistolcolor_Mat" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistolcolor_Mat.uasset" SILENT=true
+[2024.02.09-17.57.02:951][179]LogSavePackage: Moving output files for package: /Game/TopDown/Pistol/pistolcolor_Mat
+[2024.02.09-17.57.02:951][179]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/pistolcolor_MatCE40781A4F5212C6431DAB98799AD1CD.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistolcolor_Mat.uasset'
+[2024.02.09-17.57.02:979][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.99 sec (total: 10.3 sec)
+[2024.02.09-17.57.02:982][179]AssetCheck: New page: Asset Save: pistolcolor_Mat
+[2024.02.09-17.57.02:982][179]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TopDown/Pistol/pistolcolor_Mat.pistolcolor_Mat
+[2024.02.09-17.57.04:170][230]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/TopDown/Pistol/pistolv2.pistolv2
+[2024.02.09-17.57.04:350][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.57.04:350][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-17.57.04:510][230]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.02.09-17.57.04:568][230]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.02.09-17.57.06:178][230]LogViewport: Scene viewport resized to 1874x1208, mode Windowed.
+[2024.02.09-17.57.13:725][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-17.57.14:011][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/pistolv2" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistolv2.uasset" SILENT=true
+[2024.02.09-17.57.14:017][381]LogSavePackage: Moving output files for package: /Game/TopDown/Pistol/pistolv2
+[2024.02.09-17.57.14:017][381]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/pistolv22A2C90F847A01DD3E21641B4A0EBD68C.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistolv2.uasset'
+[2024.02.09-17.57.14:032][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 306 ms (total: 10.6 sec)
+[2024.02.09-17.57.14:034][381]AssetCheck: New page: Asset Save: pistolv2
+[2024.02.09-17.57.14:034][381]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/Pistol/pistolv2.pistolv2
