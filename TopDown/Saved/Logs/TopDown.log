@@ -3612,3 +3612,122 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.02.09-17.57.14:032][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 306 ms (total: 10.6 sec)
 [2024.02.09-17.57.14:034][381]AssetCheck: New page: Asset Save: pistolv2
 [2024.02.09-17.57.14:034][381]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/Pistol/pistolv2.pistolv2
+[2024.02.09-17.58.18:148][848]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2024.02.09-17.58.18:403][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.58.18:404][848]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-17.58.18:495][848]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.09-17.58.19:618][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.58.19:618][848]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-17.58.20:217][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.58.20:383][848]LogSlate: Took 0.019884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.09-17.58.20:506][848]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.02.09-17.58.20:598][848]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.02.09-17.58.28:637][972]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.02.09-17.59.30:547][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-17.59.30:756][ 39]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun
+[2024.02.09-17.59.30:756][ 39]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BS_MM_WalkRun1E625D1749BC705706E01384404ED240.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset'
+[2024.02.09-17.59.30:777][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 10.8 sec)
+[2024.02.09-17.59.30:781][ 39]AssetCheck: New page: Asset Save: BS_MM_WalkRun
+[2024.02.09-17.59.30:781][ 39]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2024.02.09-17.59.47:334][260]Cmd: TRANSACTION UNDO
+[2024.02.09-17.59.47:334][260]LogEditorTransaction: Undo Replacing Blendspace Sample
+[2024.02.09-17.59.47:931][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.09-18.01.00:390][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.01.00:674][638]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun
+[2024.02.09-18.01.00:675][638]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BS_MM_WalkRun1249DE624999A9BB3F25E487B91596AB.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset'
+[2024.02.09-18.01.00:689][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 298 ms (total: 11.1 sec)
+[2024.02.09-18.01.00:692][638]AssetCheck: New page: Asset Save: BS_MM_WalkRun
+[2024.02.09-18.01.00:692][638]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2024.02.09-18.01.44:123][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.01.44:237][276]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun
+[2024.02.09-18.01.44:237][276]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BS_MM_WalkRun7D33B8394E86ADF1B11DFB89035256ED.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset'
+[2024.02.09-18.01.44:253][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 11.3 sec)
+[2024.02.09-18.01.44:255][276]AssetCheck: New page: Asset Save: BS_MM_WalkRun
+[2024.02.09-18.01.44:255][276]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2024.02.09-18.01.46:021][320]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.02.09-18.01.46:062][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.01.46:062][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.01.46:082][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.01.46:082][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.01.46:102][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.09-18.01.46:605][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.01.46:606][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.01.46:899][320]LogViewport: Scene viewport resized to 634x554, mode Windowed.
+[2024.02.09-18.01.55:814][431]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.02.09-18.02.21:631][718]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.02.09-18.02.22:977][756]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2024.02.09-18.02.45:905][230]BlueprintLog: New page: Compile ABP_Manny
+[2024.02.09-18.02.46:097][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.02.09-18.02.47:326][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.02.47:576][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Animations/ABP_Manny" FILE="../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/ABP_Manny.uasset" SILENT=true
+[2024.02.09-18.02.47:662][263]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2024.02.09-18.02.47:662][263]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/ABP_MannyC4C979EF4E96B445FB6CC5BC8EBEDA2F.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2024.02.09-18.02.47:678][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 351 ms (total: 11.6 sec)
+[2024.02.09-18.02.47:681][263]AssetCheck: New page: Asset Save: ABP_Manny
+[2024.02.09-18.02.47:681][263]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2024.02.09-18.03.05:871][342]BlueprintLog: New page: Compile ABP_Manny
+[2024.02.09-18.03.05:945][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.02.09-18.05.11:936][939]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-18.05.11:944][939]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-18.05.11:944][939]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.09-18.05.11:947][939]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 92 ms)
+[2024.02.09-18.05.11:947][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-18.05.11:947][939]PIE: New page: PIE session: TopDownMap (9 feb. 2024 20:05:11)
+[2024.02.09-18.05.11:947][939]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.09-18.05.11:960][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012152s)
+[2024.02.09-18.05.11:960][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.012247s)
+[2024.02.09-18.05.11:989][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.02.09-18.05.11:991][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.05.11:991][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.05.11:992][939]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.09-18.05.11:993][939]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-18.05.11:993][939]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-18.05.11:993][939]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.09-18.05.11:993][939]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.09-18.05.11:994][939]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.09-18.05.11:995][939]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 483 ms)
+[2024.02.09-18.05.11:995][939]LogPlayLevel: PIE: World Init took: (0.003736s)
+[2024.02.09-18.05.11:995][939]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.02.09-18.05.11:995][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-18.05.11:995][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-18.05.11:995][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-18.05.11:995][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-18.05.11:995][939]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-18.05.11:995][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.09-18.05.11:995][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-18.05.11:995][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-18.05.11:997][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-18.05.11:997][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-18.05.11:997][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-18.05.12:000][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-18.05.12:033][939]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.09-18.05.12:034][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-18.05.12:034][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-18.05.12:034][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-18.05.12:034][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.02.09-18.05.12:035][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.02.09-18.05.12:037][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.02.09-18.05.12:037][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.02.09-18.05.12:037][939]LogInit: FAudioDevice initialized with ID 14.
+[2024.02.09-18.05.12:037][939]LogAudio: Display: Audio Device (ID: 14) registered with world 'TopDownMap'.
+[2024.02.09-18.05.12:037][939]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.09-18.05.12:040][939]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.09-18.05.12:043][939]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.09-19.05.12
+[2024.02.09-18.05.12:043][939]LogWorld: Bringing up level for play took: 0.002722
+[2024.02.09-18.05.12:047][939]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.02.09-18.05.12:052][939]PIE: Server logged in
+[2024.02.09-18.05.12:052][939]PIE: Play in editor total start time 0,109 seconds.
+[2024.02.09-18.05.45:230][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-18.05.45:230][912]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.09-18.05.45:230][912]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.05.45:231][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.05.45:232][912]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.09-18.05.45:242][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-18.05.45:253][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.05.45:282][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-18.05.45:283][912]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.09-18.05.45:283][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.09-18.05.45:285][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.09-18.05.45:291][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-18.05.45:294][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.02.09-18.05.45:335][913]LogPlayLevel: Display: Destroying online subsystem :Context_34
