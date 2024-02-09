@@ -9,7 +9,23 @@
 				"D:/TopDown/TopDown/Content/TopDown/Input/Actions/IA_Move.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Input/IMC_Default.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset"
+				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/PistolIdle_UE.uasset",
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/PistolRun_UE.uasset",
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/PistolWalk_UE.uasset",
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/ZombieRun_UE.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Pistol/pistol.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Pistol/pistolcolor.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Pistol/pistolv2.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Pistol/pistolcolor_Mat.uasset",
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Input/Actions/IA_Shoot.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_Projectile.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Pistol/M_pistol_Inst.uasset"
 			]
 		}
 	]
