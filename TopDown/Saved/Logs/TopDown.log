@@ -2571,3 +2571,747 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.02.09-17.24.53:255][104]LogOnline: OSS: Created online subsystem instance for: :Context_20
 [2024.02.09-17.24.53:261][104]PIE: Server logged in
 [2024.02.09-17.24.53:262][104]PIE: Play in editor total start time 0,109 seconds.
+[2024.02.09-17.45.45:379][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.45.47:082][583]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2024.02.09-17.45.47:312][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.45.47:544][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.48.44:244][429]LogViewport: Scene viewport resized to 1267x402, mode Windowed.
+[2024.02.09-17.48.45:958][452]LogViewport: Scene viewport resized to 2035x670, mode Windowed.
+[2024.02.09-17.48.47:432][524]LogViewport: Scene viewport resized to 1267x402, mode Windowed.
+[2024.02.09-17.48.48:006][524]LogViewport: Scene viewport resized to 1005x666, mode Windowed.
+[2024.02.09-17.49.00:888][603]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\laura\Downloads\topdownassets\topdownassets\PistolRun.UE.fbx)
+[2024.02.09-17.49.01:092][603]LogFbx: Loading FBX Scene from C:\Users\laura\Downloads\topdownassets\topdownassets\PistolRun.UE.fbx
+[2024.02.09-17.49.01:156][603]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.09-17.49.10:653][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.49.21:529][603]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.02.09-17.49.21:605][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.49.28:778][603]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(0) root
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(1) pelvis
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(2) spine_01
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(3) spine_02
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(4) spine_03
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(5) spine_04
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(6) spine_05
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(7) neck_01
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(8) neck_02
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(9) head
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(10) clavicle_l
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(11) upperarm_l
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.02.09-17.49.28:890][603]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(20) hand_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(21) wrist_inner_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(22) wrist_outer_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(23) index_metacarpal_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(24) index_01_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(25) index_02_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(26) index_03_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(27) middle_metacarpal_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(28) middle_01_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(29) middle_02_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(30) middle_03_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(31) thumb_01_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(32) thumb_02_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(33) thumb_03_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(34) pinky_metacarpal_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(35) pinky_01_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(36) pinky_02_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(37) pinky_03_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(38) ring_metacarpal_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(39) ring_01_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(40) ring_02_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(41) ring_03_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(42) weapon_l
+[2024.02.09-17.49.28:891][603]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(56) clavicle_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(57) upperarm_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(66) hand_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(67) wrist_inner_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(68) wrist_outer_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(69) pinky_metacarpal_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(70) pinky_01_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(71) pinky_02_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(72) pinky_03_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(73) ring_metacarpal_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(74) ring_01_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(75) ring_02_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(76) ring_03_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(77) middle_metacarpal_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(78) middle_01_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(79) middle_02_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(80) middle_03_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(81) index_metacarpal_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(82) index_01_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(83) index_02_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(84) index_03_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(85) thumb_01_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(86) thumb_02_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(87) thumb_03_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(88) weapon_r
+[2024.02.09-17.49.28:892][603]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(106) thigh_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(107) calf_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(108) foot_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(109) ball_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(110) ankle_fwd_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(111) ankle_bck_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(129) thigh_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(130) calf_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(131) foot_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(132) ball_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.02.09-17.49.28:893][603]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(159) interaction
+[2024.02.09-17.49.28:894][603]LogFbx: SortedLinks :(160) center_of_mass
+[2024.02.09-17.49.28:905][603]LogFbx: Parsing AnimStack mixamo.com
+[2024.02.09-17.49.29:351][603]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolRun_UE.PistolRun_UE
+[2024.02.09-17.49.29:468][603]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolRun_UE.PistolRun_UE
+[2024.02.09-17.49.29:471][603]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\laura\Downloads\topdownassets\topdownassets\PistolWalk.UE.fbx)
+[2024.02.09-17.49.29:481][603]LogFbx: Loading FBX Scene from C:\Users\laura\Downloads\topdownassets\topdownassets\PistolWalk.UE.fbx
+[2024.02.09-17.49.29:492][603]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/PistolRun_UE.PistolRun_UE, at AnimationSequence/c151076f7db852f7930b13a6bac26d630baef562
+[2024.02.09-17.49.29:538][603]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(0) root
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(1) pelvis
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(2) spine_01
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(3) spine_02
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(4) spine_03
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(5) spine_04
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(6) spine_05
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(7) neck_01
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(8) neck_02
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(9) head
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(10) clavicle_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(11) upperarm_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.02.09-17.49.29:541][603]LogFbx: SortedLinks :(20) hand_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(21) wrist_inner_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(22) wrist_outer_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(23) index_metacarpal_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(24) index_01_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(25) index_02_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(26) index_03_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(27) middle_metacarpal_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(28) middle_01_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(29) middle_02_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(30) middle_03_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(31) thumb_01_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(32) thumb_02_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(33) thumb_03_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(34) pinky_metacarpal_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(35) pinky_01_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(36) pinky_02_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(37) pinky_03_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(38) ring_metacarpal_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(39) ring_01_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(40) ring_02_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(41) ring_03_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(42) weapon_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(56) clavicle_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(57) upperarm_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(66) hand_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(67) wrist_inner_r
+[2024.02.09-17.49.29:542][603]LogFbx: SortedLinks :(68) wrist_outer_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(69) pinky_metacarpal_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(70) pinky_01_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(71) pinky_02_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(72) pinky_03_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(73) ring_metacarpal_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(74) ring_01_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(75) ring_02_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(76) ring_03_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(77) middle_metacarpal_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(78) middle_01_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(79) middle_02_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(80) middle_03_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(81) index_metacarpal_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(82) index_01_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(83) index_02_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(84) index_03_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(85) thumb_01_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(86) thumb_02_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(87) thumb_03_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(88) weapon_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(106) thigh_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(107) calf_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(108) foot_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(109) ball_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(110) ankle_fwd_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(111) ankle_bck_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.02.09-17.49.29:543][603]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(129) thigh_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(130) calf_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(131) foot_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(132) ball_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.02.09-17.49.29:544][603]LogFbx: SortedLinks :(159) interaction
+[2024.02.09-17.49.29:545][603]LogFbx: SortedLinks :(160) center_of_mass
+[2024.02.09-17.49.29:545][603]LogFbx: Parsing AnimStack mixamo.com
+[2024.02.09-17.49.29:851][603]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE.PistolWalk_UE
+[2024.02.09-17.49.29:881][603]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE.PistolWalk_UE
+[2024.02.09-17.49.29:884][603]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\laura\Downloads\topdownassets\topdownassets\ZombieRun.UE.fbx)
+[2024.02.09-17.49.29:900][603]LogFbx: Loading FBX Scene from C:\Users\laura\Downloads\topdownassets\topdownassets\ZombieRun.UE.fbx
+[2024.02.09-17.49.29:915][603]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE.PistolWalk_UE, at AnimationSequence/cab5014006648daa3410d474a5ecaad6c408d063
+[2024.02.09-17.49.30:000][603]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(0) root
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(1) pelvis
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(2) spine_01
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(3) spine_02
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(4) spine_03
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(5) spine_04
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(6) spine_05
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(7) neck_01
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(8) neck_02
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(9) head
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(10) clavicle_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(11) upperarm_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(20) hand_l
+[2024.02.09-17.49.30:009][603]LogFbx: SortedLinks :(21) wrist_inner_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(22) wrist_outer_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(23) index_metacarpal_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(24) index_01_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(25) index_02_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(26) index_03_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(27) middle_metacarpal_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(28) middle_01_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(29) middle_02_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(30) middle_03_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(31) thumb_01_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(32) thumb_02_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(33) thumb_03_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(34) pinky_metacarpal_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(35) pinky_01_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(36) pinky_02_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(37) pinky_03_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(38) ring_metacarpal_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(39) ring_01_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(40) ring_02_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(41) ring_03_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(42) weapon_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(56) clavicle_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(57) upperarm_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(66) hand_r
+[2024.02.09-17.49.30:010][603]LogFbx: SortedLinks :(67) wrist_inner_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(68) wrist_outer_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(69) pinky_metacarpal_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(70) pinky_01_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(71) pinky_02_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(72) pinky_03_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(73) ring_metacarpal_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(74) ring_01_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(75) ring_02_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(76) ring_03_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(77) middle_metacarpal_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(78) middle_01_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(79) middle_02_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(80) middle_03_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(81) index_metacarpal_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(82) index_01_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(83) index_02_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(84) index_03_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(85) thumb_01_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(86) thumb_02_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(87) thumb_03_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(88) weapon_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.02.09-17.49.30:011][603]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(106) thigh_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(107) calf_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(108) foot_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(109) ball_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(110) ankle_fwd_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(111) ankle_bck_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(129) thigh_l
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(130) calf_l
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(131) foot_l
+[2024.02.09-17.49.30:012][603]LogFbx: SortedLinks :(132) ball_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(159) interaction
+[2024.02.09-17.49.30:013][603]LogFbx: SortedLinks :(160) center_of_mass
+[2024.02.09-17.49.30:013][603]LogFbx: Parsing AnimStack mixamo.com
+[2024.02.09-17.49.30:372][603]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE.ZombieRun_UE
+[2024.02.09-17.49.30:390][603]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE.ZombieRun_UE
+[2024.02.09-17.49.30:393][603]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\laura\Downloads\topdownassets\topdownassets\PistolIdle.UE.fbx)
+[2024.02.09-17.49.30:403][603]LogFbx: Loading FBX Scene from C:\Users\laura\Downloads\topdownassets\topdownassets\PistolIdle.UE.fbx
+[2024.02.09-17.49.30:411][603]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE.ZombieRun_UE, at AnimationSequence/991d1a558f1e0f86d82a1a7f7ba891647a9ecc02
+[2024.02.09-17.49.30:461][603]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(0) root
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(1) pelvis
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(2) spine_01
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(3) spine_02
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(4) spine_03
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(5) spine_04
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(6) spine_05
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(7) neck_01
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(8) neck_02
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(9) head
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(10) clavicle_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(11) upperarm_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(20) hand_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(21) wrist_inner_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(22) wrist_outer_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(23) index_metacarpal_l
+[2024.02.09-17.49.30:465][603]LogFbx: SortedLinks :(24) index_01_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(25) index_02_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(26) index_03_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(27) middle_metacarpal_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(28) middle_01_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(29) middle_02_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(30) middle_03_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(31) thumb_01_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(32) thumb_02_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(33) thumb_03_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(34) pinky_metacarpal_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(35) pinky_01_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(36) pinky_02_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(37) pinky_03_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(38) ring_metacarpal_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(39) ring_01_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(40) ring_02_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(41) ring_03_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(42) weapon_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(56) clavicle_r
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(57) upperarm_r
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.02.09-17.49.30:466][603]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(66) hand_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(67) wrist_inner_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(68) wrist_outer_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(69) pinky_metacarpal_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(70) pinky_01_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(71) pinky_02_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(72) pinky_03_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(73) ring_metacarpal_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(74) ring_01_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(75) ring_02_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(76) ring_03_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(77) middle_metacarpal_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(78) middle_01_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(79) middle_02_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(80) middle_03_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(81) index_metacarpal_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(82) index_01_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(83) index_02_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(84) index_03_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(85) thumb_01_r
+[2024.02.09-17.49.30:467][603]LogFbx: SortedLinks :(86) thumb_02_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(87) thumb_03_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(88) weapon_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(106) thigh_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(107) calf_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(108) foot_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(109) ball_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(110) ankle_fwd_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(111) ankle_bck_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(129) thigh_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(130) calf_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(131) foot_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(132) ball_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.02.09-17.49.30:468][603]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(159) interaction
+[2024.02.09-17.49.30:469][603]LogFbx: SortedLinks :(160) center_of_mass
+[2024.02.09-17.49.30:469][603]LogFbx: Parsing AnimStack mixamo.com
+[2024.02.09-17.49.30:891][603]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE.PistolIdle_UE
+[2024.02.09-17.49.30:965][603]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE.PistolIdle_UE
+[2024.02.09-17.49.31:045][603]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE.PistolIdle_UE, at AnimationSequence/81a3b0769ff87a98e0f5d9ccca2543d7a5b41bc6
+[2024.02.09-17.49.31:150][603]LogShaderCompilers: Display: ================================================
+[2024.02.09-17.49.31:150][603]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.09-17.49.31:150][603]LogShaderCompilers: Display: Total job queries 10, among them cache hits 0 (0.00%)
+[2024.02.09-17.49.31:150][603]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2024.02.09-17.49.31:150][603]LogShaderCompilers: Display: RAM used: 243,02 KiB of 819,20 MiB budget. Usage: 0.03%
+[2024.02.09-17.49.31:150][603]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.09-17.49.31:150][603]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.02.09-17.49.31:151][603]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2024.02.09-17.49.31:151][603]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.02.09-17.49.31:151][603]LogShaderCompilers: Display: Time job spent in pending queue: average 1.95 s, longest 3.65 s
+[2024.02.09-17.49.31:151][603]LogShaderCompilers: Display: Job execution time: average 1.62 s, max 3.43 s
+[2024.02.09-17.49.31:151][603]LogShaderCompilers: Display: Job life time (pending + execution): average 3.57 s, max 4.26
+[2024.02.09-17.49.31:151][603]LogShaderCompilers: Display: Shader code size: average 33,829 KiB, min 4,465 KiB, max 42,328 KiB
+[2024.02.09-17.49.31:151][603]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.29 s
+[2024.02.09-17.49.31:151][603]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.09-17.49.31:152][603]LogShaderCompilers: Display: Average processing rate: 2.33 jobs/sec
+[2024.02.09-17.49.31:152][603]LogShaderCompilers: Display: Total thread time: 5,559 s
+[2024.02.09-17.49.31:152][603]LogShaderCompilers: Display: Total thread preprocess time: 0,561 s
+[2024.02.09-17.49.31:152][603]LogShaderCompilers: Display: Percentage time preprocessing: 10.10%
+[2024.02.09-17.49.31:152][603]LogShaderCompilers: Display: Effective parallelization: 1.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.09-17.49.31:152][603]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.09-17.49.31:152][603]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.62 sec, max 0.72 sec, min 0.53 sec)
+[2024.02.09-17.49.31:152][603]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.61 sec, max 0.64 sec, min 0.59 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.52 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.48 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.25 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.46% of total time (compiled    2 times, average 0.62 sec, max 0.72 sec, min 0.53 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display:                                                  FVelocityVS - 22.12% of total time (compiled    2 times, average 0.61 sec, max 0.64 sec, min 0.59 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display:                                                  FHitProxyVS - 19.77% of total time (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.52 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.64% of total time (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.48 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display:                                                  FVelocityPS - 9.75% of total time (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.25 sec)
+[2024.02.09-17.49.31:153][603]LogShaderCompilers: Display: ================================================
+[2024.02.09-17.49.44:567][348]LogViewport: Scene viewport resized to 1006x666, mode Windowed.
+[2024.02.09-17.49.44:661][348]LogViewport: Scene viewport resized to 1069x666, mode Windowed.
+[2024.02.09-17.49.44:761][348]LogViewport: Scene viewport resized to 1146x666, mode Windowed.
+[2024.02.09-17.49.44:845][348]LogViewport: Scene viewport resized to 1253x666, mode Windowed.
+[2024.02.09-17.49.44:928][348]LogViewport: Scene viewport resized to 1309x666, mode Windowed.
+[2024.02.09-17.49.45:011][348]LogViewport: Scene viewport resized to 1341x666, mode Windowed.
+[2024.02.09-17.49.45:110][348]LogViewport: Scene viewport resized to 1435x666, mode Windowed.
+[2024.02.09-17.49.45:192][348]LogViewport: Scene viewport resized to 1442x666, mode Windowed.
+[2024.02.09-17.49.45:361][348]LogViewport: Scene viewport resized to 1443x666, mode Windowed.
+[2024.02.09-17.49.46:459][403]LogViewport: Scene viewport resized to 2035x670, mode Windowed.
+[2024.02.09-17.49.47:620][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.02.09-17.49.50:205][458]LogSlate: Window 'Save Content' being destroyed
+[2024.02.09-17.49.50:229][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-17.49.50:343][458]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE
+[2024.02.09-17.49.50:343][458]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/PistolIdle_UE5070468C44E3D1F58CF16CB6CC206270.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/PistolIdle_UE.uasset'
+[2024.02.09-17.49.50:387][458]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/PistolRun_UE
+[2024.02.09-17.49.50:387][458]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/PistolRun_UED47C5A184594D10B4F0B519C805493A7.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/PistolRun_UE.uasset'
+[2024.02.09-17.49.50:429][458]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE
+[2024.02.09-17.49.50:429][458]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/PistolWalk_UE7B8EBCAD4167FAD6DA1252A476A21225.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/PistolWalk_UE.uasset'
+[2024.02.09-17.49.50:466][458]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE
+[2024.02.09-17.49.50:466][458]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/ZombieRun_UE4677BEAC49206B4445894681EA91817E.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/ZombieRun_UE.uasset'
+[2024.02.09-17.49.50:468][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 239 ms (total: 7.80 sec)
+[2024.02.09-17.49.50:470][458]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.09-17.49.50:470][458]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE.PistolIdle_UE
+[2024.02.09-17.49.50:470][458]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolRun_UE.PistolRun_UE
+[2024.02.09-17.49.50:470][458]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE.PistolWalk_UE
+[2024.02.09-17.49.50:470][458]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE.ZombieRun_UE
