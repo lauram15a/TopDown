@@ -3315,3 +3315,211 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.02.09-17.49.50:470][458]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolRun_UE.PistolRun_UE
 [2024.02.09-17.49.50:470][458]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE.PistolWalk_UE
 [2024.02.09-17.49.50:470][458]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE.ZombieRun_UE
+[2024.02.09-17.51.27:631][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-17.51.27:631][349]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.09-17.51.27:631][349]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-17.51.27:632][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-17.51.27:632][349]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.09-17.51.27:637][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-17.51.27:644][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-17.51.27:667][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-17.51.27:667][349]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.09-17.51.27:667][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.09-17.51.27:670][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.09-17.51.27:677][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-17.51.27:680][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.02.09-17.51.27:744][350]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.02.09-17.51.29:231][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-17.51.29:235][419]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-17.51.29:235][419]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.09-17.51.29:238][419]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 89 ms)
+[2024.02.09-17.51.29:238][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-17.51.29:238][419]PIE: New page: PIE session: TopDownMap (9 feb. 2024 19:51:29)
+[2024.02.09-17.51.29:238][419]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.09-17.51.29:251][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012506s)
+[2024.02.09-17.51.29:251][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.012650s)
+[2024.02.09-17.51.29:270][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.09-17.51.29:272][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-17.51.29:272][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-17.51.29:272][419]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.09-17.51.29:273][419]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-17.51.29:273][419]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-17.51.29:273][419]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.09-17.51.29:273][419]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.09-17.51.29:275][419]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.09-17.51.29:275][419]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 481 ms)
+[2024.02.09-17.51.29:275][419]LogPlayLevel: PIE: World Init took: (0.002806s)
+[2024.02.09-17.51.29:275][419]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.09-17.51.29:275][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-17.51.29:275][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-17.51.29:275][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-17.51.29:275][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-17.51.29:275][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-17.51.29:275][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.09-17.51.29:275][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-17.51.29:275][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-17.51.29:276][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-17.51.29:276][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-17.51.29:276][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-17.51.29:278][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-17.51.29:305][419]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.09-17.51.29:305][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-17.51.29:305][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-17.51.29:305][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-17.51.29:306][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.09-17.51.29:306][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.09-17.51.29:309][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.09-17.51.29:309][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.09-17.51.29:309][419]LogInit: FAudioDevice initialized with ID 13.
+[2024.02.09-17.51.29:309][419]LogAudio: Display: Audio Device (ID: 13) registered with world 'TopDownMap'.
+[2024.02.09-17.51.29:309][419]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.09-17.51.29:312][419]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.09-17.51.29:314][419]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.09-18.51.29
+[2024.02.09-17.51.29:314][419]LogWorld: Bringing up level for play took: 0.002267
+[2024.02.09-17.51.29:317][419]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.02.09-17.51.29:322][419]PIE: Server logged in
+[2024.02.09-17.51.29:323][419]PIE: Play in editor total start time 0,087 seconds.
+[2024.02.09-17.51.50:341][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-17.51.50:341][665]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.09-17.51.50:341][665]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-17.51.50:342][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-17.51.50:342][665]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.09-17.51.50:346][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-17.51.50:351][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-17.51.50:373][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-17.51.50:373][665]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.09-17.51.50:373][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.09-17.51.50:376][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.09-17.51.50:387][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.02.09-17.51.50:428][666]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.02.09-17.52.02:434][ 30]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.09-17.52.02:465][ 30]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.09-17.52.02:507][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.09-17.52.06:703][244]LogContentBrowser: Attempting asset rename: NewFolder -> Pistol
+[2024.02.09-17.52.06:704][244]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.09-17.52.13:523][454]LogViewport: Scene viewport resized to 1267x402, mode Windowed.
+[2024.02.09-17.52.15:086][454]LogViewport: Scene viewport resized to 1005x666, mode Windowed.
+[2024.02.09-17.52.25:494][556]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\laura\Downloads\topdownassets\topdownassets\pistolv2.fbx)
+[2024.02.09-17.52.25:507][556]LogFbx: Loading FBX Scene from C:\Users\laura\Downloads\topdownassets\topdownassets\pistolv2.fbx
+[2024.02.09-17.52.25:650][556]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.09-17.52.33:892][556]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.09-17.52.34:268][556]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\banji\OneDrive\Desktop\pistol\pistolcolor.png
+[2024.02.09-17.52.34:270][556]LogFbxMaterialImport: Display: Unable to find Texture file I:\Projects\gundesigns\bakes\pistol4\bakers\pistolSmoothness.png
+[2024.02.09-17.52.34:270][556]LogFbxMaterialImport: Display: Unable to find Texture file I:\Projects\gundesigns\bakes\pistol4\bakers\pistolNormal.png
+[2024.02.09-17.52.34:371][556]LogFbx: Display: Triangulating static mesh trigger
+[2024.02.09-17.52.34:481][556]LogStaticMesh: Display: Building static mesh pistolv2...
+[2024.02.09-17.52.34:542][556]LogStaticMesh: Built static mesh [0.06s] /Game/TopDown/Pistol/pistolv2.pistolv2
+[2024.02.09-17.52.34:678][556]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.02.09-17.52.34:958][556]LogInterchangeEngine: [Pending] Importing
+[2024.02.09-17.52.34:958][556]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/laura/Downl...assets/topdownassets/pistolcolor.png]
+[2024.02.09-17.52.35:097][557]LogInterchangeEngine: [Pending] Importing
+[2024.02.09-17.52.35:440][561]LogTexture: Display: Building textures: /Game/TopDown/Pistol/pistolcolor.pistolcolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.02.09-17.52.35:504][561]LogInterchangeEngine: [Success] Import Done
+[2024.02.09-17.52.35:552][562]LogInterchangeEngine: [Success] Import Done
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: ================================================
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Total job queries 14, among them cache hits 0 (0.00%)
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Tracking 11 distinct input hashes that result in 9 distinct outputs (81.82%)
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: RAM used: 260,45 KiB of 819,20 MiB budget. Usage: 0.03%
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Shaders Compiled: 11
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Jobs assigned 14, completed 11 (78.57%)
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Average time worker was idle: 75.76 s
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Time job spent in pending queue: average 1.41 s, longest 3.65 s
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Job execution time: average 1.53 s, max 3.43 s
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Job life time (pending + execution): average 3.31 s, max 4.26
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Shader code size: average 33,512 KiB, min 4,465 KiB, max 42,328 KiB
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.01 s
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Average processing rate: 2.20 jobs/sec
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Total thread time: 5,842 s
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Total thread preprocess time: 0,626 s
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Percentage time preprocessing: 10.71%
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Effective parallelization: 1.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.62 sec, max 0.72 sec, min 0.53 sec)
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.61 sec, max 0.64 sec, min 0.59 sec)
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.52 sec)
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.48 sec)
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2024.02.09-17.52.35:974][568]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.09-17.52.35:975][568]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.38% of total time (compiled    2 times, average 0.62 sec, max 0.72 sec, min 0.53 sec)
+[2024.02.09-17.52.35:975][568]LogShaderCompilers: Display:                                                  FVelocityVS - 21.05% of total time (compiled    2 times, average 0.61 sec, max 0.64 sec, min 0.59 sec)
+[2024.02.09-17.52.35:975][568]LogShaderCompilers: Display:                                                  FHitProxyVS - 18.82% of total time (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.52 sec)
+[2024.02.09-17.52.35:975][568]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.78% of total time (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.48 sec)
+[2024.02.09-17.52.35:975][568]LogShaderCompilers: Display:                                                  FVelocityPS - 9.28% of total time (compiled    2 times, average 0.27 sec, max 0.29 sec, min 0.25 sec)
+[2024.02.09-17.52.35:975][568]LogShaderCompilers: Display: ================================================
+[2024.02.09-17.52.38:287][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.02.09-17.52.38:291][688]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.032
+[2024.02.09-17.52.38:291][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Pistol/pistolv2] ([1] browsable assets)...
+[2024.02.09-17.52.38:305][688]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TopDown/Pistol/pistolv2.pistolv2]
+[2024.02.09-17.52.38:305][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Pistol/pistolv2]
+[2024.02.09-17.52.38:305][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/pistolv2" FILE="../../../../../../TopDown/TopDown/Saved/Autosaves/Game/TopDown/Pistol/pistolv2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.09-17.52.38:311][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Pistol/pistolv2_Auto2
+[2024.02.09-17.52.38:311][688]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/pistolv2_Auto276A945724A14976D4C56C0962B54FCB1.tmp' to '../../../../../../TopDown/TopDown/Saved/Autosaves/Game/TopDown/Pistol/pistolv2_Auto2.uasset'
+[2024.02.09-17.52.38:312][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Pistol/pistol] ([1] browsable assets)...
+[2024.02.09-17.52.40:048][688]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDown/Pistol/pistol.pistol]
+[2024.02.09-17.52.40:050][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Pistol/pistol]
+[2024.02.09-17.52.40:050][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/pistol" FILE="../../../../../../TopDown/TopDown/Saved/Autosaves/Game/TopDown/Pistol/pistol_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.09-17.52.40:055][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Pistol/pistol_Auto2
+[2024.02.09-17.52.40:055][688]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/pistol_Auto28F2D41234C10B3B7E849E5B8D8CC8A25.tmp' to '../../../../../../TopDown/TopDown/Saved/Autosaves/Game/TopDown/Pistol/pistol_Auto2.uasset'
+[2024.02.09-17.52.40:056][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Pistol/pistolcolor] ([1] browsable assets)...
+[2024.02.09-17.52.40:064][688]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TopDown/Pistol/pistolcolor.pistolcolor]
+[2024.02.09-17.52.40:064][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Pistol/pistolcolor]
+[2024.02.09-17.52.40:064][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/pistolcolor" FILE="../../../../../../TopDown/TopDown/Saved/Autosaves/Game/TopDown/Pistol/pistolcolor_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.09-17.52.40:095][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Pistol/pistolcolor_Auto2
+[2024.02.09-17.52.40:095][688]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/pistolcolor_Auto218F890C74002499EF9096988C1ACEC9B.tmp' to '../../../../../../TopDown/TopDown/Saved/Autosaves/Game/TopDown/Pistol/pistolcolor_Auto2.uasset'
+[2024.02.09-17.52.40:095][688]LogFileHelpers: Auto-saving content packages took 1.805
+[2024.02.09-17.53.13:980][685]LogSlate: Window 'Message Log' being destroyed
+[2024.02.09-17.53.13:997][685]LogSlate: Window 'Message Log' being destroyed
+[2024.02.09-17.53.43:785][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.02.09-17.53.46:014][103]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.09-17.53.46:200][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.09-17.53.46:222][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.02.09-17.53.46:248][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.09-17.53.47:602][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.09-17.53.48:726][175]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.09-17.53.48:768][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2024.02.09-17.53.48:797][175]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2024.02.09-17.53.48:824][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.09-17.53.50:121][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.09-17.53.51:449][244]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.09-17.53.51:497][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.02.09-17.53.51:530][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2024.02.09-17.53.51:554][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.02.09-17.53.57:787][348]LogViewport: Scene viewport resized to 1267x402, mode Windowed.
+[2024.02.09-17.53.58:118][348]LogViewport: Scene viewport resized to 1005x666, mode Windowed.
+[2024.02.09-17.54.05:914][392]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\laura\Downloads\topdownassets\topdownassets\pistolv2.fbx)
+[2024.02.09-17.54.05:921][392]LogFbx: Loading FBX Scene from C:\Users\laura\Downloads\topdownassets\topdownassets\pistolv2.fbx
+[2024.02.09-17.54.05:931][392]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.09-17.54.11:355][392]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.09-17.54.11:535][392]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\banji\OneDrive\Desktop\pistol\pistolcolor.png
+[2024.02.09-17.54.11:535][392]LogFbxMaterialImport: Display: Unable to find Texture file I:\Projects\gundesigns\bakes\pistol4\bakers\pistolSmoothness.png
+[2024.02.09-17.54.11:535][392]LogFbxMaterialImport: Display: Unable to find Texture file I:\Projects\gundesigns\bakes\pistol4\bakers\pistolNormal.png
+[2024.02.09-17.54.11:541][392]LogFbx: Display: Triangulating static mesh trigger
+[2024.02.09-17.54.11:600][392]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.02.09-17.54.11:752][392]LogInterchangeEngine: [Pending] Importing
+[2024.02.09-17.54.11:752][392]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/laura/Downl...assets/topdownassets/pistolcolor.png]
+[2024.02.09-17.54.11:883][393]LogInterchangeEngine: [Pending] Importing
+[2024.02.09-17.54.12:042][395]LogInterchangeEngine: [Success] Import Done
+[2024.02.09-17.54.12:048][395]LogTexture: Display: Building textures: /Game/TopDown/Pistol/pistolcolor.pistolcolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.02.09-17.54.12:152][396]LogInterchangeEngine: [Success] Import Done
+[2024.02.09-17.54.18:073][716]LogSlate: Window 'Message Log' being destroyed
+[2024.02.09-17.54.18:083][716]LogSlate: Window 'Message Log' being destroyed
+[2024.02.09-17.54.22:654][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.02.09-17.54.24:136][981]LogSlate: Window 'Save Content' being destroyed
+[2024.02.09-17.54.24:157][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-17.54.24:376][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/pistol" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistol.uasset" SILENT=true
+[2024.02.09-17.54.24:378][981]LogSavePackage: Moving output files for package: /Game/TopDown/Pistol/pistol
+[2024.02.09-17.54.24:378][981]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/pistol5B9BFB9A4670B538FF850DB86236CEBC.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistol.uasset'
+[2024.02.09-17.54.24:384][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/pistolcolor" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistolcolor.uasset" SILENT=true
+[2024.02.09-17.54.24:536][981]LogSavePackage: Moving output files for package: /Game/TopDown/Pistol/pistolcolor
+[2024.02.09-17.54.24:536][981]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/pistolcolor7F4074F84F2FEAA38C07E8B53C312A01.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistolcolor.uasset'
+[2024.02.09-17.54.24:547][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Pistol/pistolv2" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistolv2.uasset" SILENT=true
+[2024.02.09-17.54.24:554][981]LogSavePackage: Moving output files for package: /Game/TopDown/Pistol/pistolv2
+[2024.02.09-17.54.24:554][981]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/pistolv2802E68DF4646ECFD4D9CBFB805F50ED7.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Pistol/pistolv2.uasset'
+[2024.02.09-17.54.24:568][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 410 ms (total: 8.21 sec)
+[2024.02.09-17.54.24:570][981]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.09-17.54.24:570][981]LogContentValidation: Display: Validating /Script/Engine.Material /Game/TopDown/Pistol/pistol.pistol
+[2024.02.09-17.54.24:570][981]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/TopDown/Pistol/pistolcolor.pistolcolor
+[2024.02.09-17.54.24:570][981]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/TopDown/Pistol/pistolv2.pistolv2
