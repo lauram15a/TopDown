@@ -3731,3 +3731,139 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.02.09-18.05.45:291][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.02.09-18.05.45:294][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
 [2024.02.09-18.05.45:335][913]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.02.09-18.06.57:167][588]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.02.09-18.06.57:200][588]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2024.02.09-18.06.57:300][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.06.57:300][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.06.57:406][588]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.09-18.06.58:195][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.06.58:248][588]LogViewport: Scene viewport resized to 1908x1163, mode Windowed.
+[2024.02.09-18.11.08:196][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.11.08:734][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny" FILE="../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset" SILENT=true
+[2024.02.09-18.11.10:682][572]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny
+[2024.02.09-18.11.10:682][572]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/SKM_Manny27D81BAD4895EEFCEC7C858589F4322C.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset'
+[2024.02.09-18.11.10:697][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.50 sec (total: 14.1 sec)
+[2024.02.09-18.11.10:700][572]AssetCheck: New page: Asset Save: SKM_Manny
+[2024.02.09-18.11.10:700][572]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.02.09-18.11.14:706][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.02.09-18.11.17:027][646]LogSlate: Window 'Save Content' being destroyed
+[2024.02.09-18.11.17:076][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.11.17:205][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SK_Mannequin" FILE="../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" SILENT=true
+[2024.02.09-18.11.17:219][646]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2024.02.09-18.11.17:220][646]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/SK_Mannequin5DE5BEDE455AD7B8ADDEEAA331510E52.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2024.02.09-18.11.17:234][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 14.3 sec)
+[2024.02.09-18.11.17:237][646]AssetCheck: New page: Asset Save: SK_Mannequin
+[2024.02.09-18.11.17:237][646]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2024.02.09-18.13.18:131][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.13.18:262][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mannequins/Meshes/SKM_Manny" FILE="../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset" SILENT=true
+[2024.02.09-18.13.20:108][684]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SKM_Manny
+[2024.02.09-18.13.20:109][684]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/SKM_Manny5A819B1D4E9E6FF48D994F90A0AF391A.tmp' to '../../../../../../TopDown/TopDown/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset'
+[2024.02.09-18.13.20:126][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.99 sec (total: 16.3 sec)
+[2024.02.09-18.13.20:128][684]AssetCheck: New page: Asset Save: SKM_Manny
+[2024.02.09-18.13.20:128][684]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.02.09-18.13.21:375][690]LogSlate: Window 'SKM_Manny' being destroyed
+[2024.02.09-18.13.21:389][690]LogSlate: Window 'SKM_Manny' being destroyed
+[2024.02.09-18.13.21:405][690]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.21:405][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.21:661][690]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.09-18.13.21:661][690]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.21:661][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.21:865][690]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.09-18.13.21:865][690]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.21:865][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.22:023][690]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.22:023][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.22:201][690]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.22:202][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.22:382][690]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.22:382][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.22:446][690]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.22:446][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.22:468][690]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.22:469][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.22:674][690]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.22:674][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.22:739][690]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.22:739][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.29:344][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-18.13.29:350][719]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.09-18.13.29:350][719]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.09-18.13.29:353][719]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 94 ms)
+[2024.02.09-18.13.29:353][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-18.13.29:353][719]PIE: New page: PIE session: TopDownMap (9 feb. 2024 20:13:29)
+[2024.02.09-18.13.29:353][719]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.09-18.13.29:362][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009817s)
+[2024.02.09-18.13.29:362][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.009862s)
+[2024.02.09-18.13.29:433][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.02.09-18.13.29:447][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.13.29:448][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.13.29:448][719]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.09-18.13.29:449][719]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.09-18.13.29:449][719]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.09-18.13.29:449][719]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.09-18.13.29:449][719]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.09-18.13.29:451][719]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.09-18.13.29:451][719]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 485 ms)
+[2024.02.09-18.13.29:451][719]LogPlayLevel: PIE: World Init took: (0.003696s)
+[2024.02.09-18.13.29:451][719]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.09-18.13.29:451][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-18.13.29:451][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-18.13.29:451][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-18.13.29:451][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-18.13.29:451][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-18.13.29:451][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.09-18.13.29:451][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-18.13.29:451][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-18.13.29:452][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-18.13.29:452][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-18.13.29:452][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-18.13.29:455][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-18.13.29:483][719]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.09-18.13.29:483][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-18.13.29:484][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-18.13.29:484][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-18.13.29:485][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.02.09-18.13.29:485][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.02.09-18.13.29:487][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.02.09-18.13.29:487][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.02.09-18.13.29:488][719]LogInit: FAudioDevice initialized with ID 15.
+[2024.02.09-18.13.29:488][719]LogAudio: Display: Audio Device (ID: 15) registered with world 'TopDownMap'.
+[2024.02.09-18.13.29:488][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.09-18.13.29:491][719]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.09-18.13.29:493][719]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.09-19.13.29
+[2024.02.09-18.13.29:493][719]LogWorld: Bringing up level for play took: 0.001996
+[2024.02.09-18.13.29:496][719]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.02.09-18.13.29:502][719]PIE: Server logged in
+[2024.02.09-18.13.29:503][719]PIE: Play in editor total start time 0,154 seconds.
+[2024.02.09-18.13.41:050][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-18.13.41:050][400]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.09-18.13.41:050][400]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.13.41:050][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.41:050][400]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.09-18.13.41:054][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-18.13.41:061][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.13.41:080][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-18.13.41:081][400]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.09-18.13.41:081][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.09-18.13.41:083][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.09-18.13.41:094][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.02.09-18.13.41:133][401]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.02.09-18.15.04:344][362]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.02.09-18.15.04:346][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.15.04:347][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.15.04:361][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.09-18.15.04:911][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.15.04:911][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.15.05:329][362]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.02.09-18.15.05:340][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.15.05:340][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.15.05:423][362]LogViewport: Scene viewport resized to 1522x721, mode Windowed.
+[2024.02.09-18.15.05:565][362]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.02.09-18.15.18:331][706]LogSlate: Window 'MM_Idle' being destroyed
+[2024.02.09-18.15.18:344][706]LogSlate: Window 'MM_Idle' being destroyed
+[2024.02.09-18.15.18:367][706]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.15.18:367][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.15.18:458][706]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.15.18:458][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-18.15.18:566][706]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-18.15.18:566][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
