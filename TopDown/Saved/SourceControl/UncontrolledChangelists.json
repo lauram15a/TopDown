@@ -24,6 +24,7 @@
 				"D:/TopDown/TopDown/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Input/Actions/IA_Shoot.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_Projectile.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Pistol/M_pistol_Inst.uasset"
 			]
 		}
