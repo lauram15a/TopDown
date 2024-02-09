@@ -44,6 +44,9 @@
 				"D:/TopDown/TopDown/Content/Characters/Mannequins/Textures/Manny/FBHead_baked_tex_1.uasset",
 				"D:/TopDown/TopDown/Content/Characters/Mannequins/Textures/Manny/Final_Novo_Corpo_Zumbi_packed0_diffuse_0.uasset",
 				"D:/TopDown/TopDown/Content/Characters/Mannequins/Meshes/Zombie_Moss_Skeleton.uasset",
+				"D:/TopDown/TopDown/Content/Minimap/Minimap_TextureRenderTarget.uasset",
+				"D:/TopDown/TopDown/Content/Minimap/M_Minimap_TextureRenderTarget.uasset",
+				"D:/TopDown/TopDown/Content/Minimap/W_Minimap.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Pistol/M_pistol_Inst.uasset"
 			]
 		}
