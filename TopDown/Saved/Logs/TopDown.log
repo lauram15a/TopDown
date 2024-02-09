@@ -1477,3 +1477,55 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2024.02.09-19.26.07:095][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.94 sec)
 [2024.02.09-19.26.07:097][233]AssetCheck: New page: Asset Save: BP_Zombie
 [2024.02.09-19.26.07:097][233]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2024.02.09-19.29.39:080][946]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.02.09-19.29.39:120][946]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.09-19.29.40:483][  0]BlueprintLog: New page: Compile BP_Zombie
+[2024.02.09-19.29.40:622][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.02.09-19.29.41:423][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-19.29.41:547][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Zombie" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset" SILENT=true
+[2024.02.09-19.29.41:558][ 32]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Zombie
+[2024.02.09-19.29.41:558][ 32]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_Zombie11516F944137D1E979F6D3821D1C59D6.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset'
+[2024.02.09-19.29.41:573][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 2.09 sec)
+[2024.02.09-19.29.41:575][ 32]AssetCheck: New page: Asset Save: BP_Zombie
+[2024.02.09-19.29.41:576][ 32]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2024.02.09-19.30.56:429][479]BlueprintLog: New page: Compile BP_Zombie
+[2024.02.09-19.30.56:856][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.02.09-19.30.57:416][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-19.30.57:513][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Zombie" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset" SILENT=true
+[2024.02.09-19.30.57:522][500]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Zombie
+[2024.02.09-19.30.57:523][500]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_ZombieC2EA6E844ADFB67D0552059390BF7706.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset'
+[2024.02.09-19.30.57:538][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 2.21 sec)
+[2024.02.09-19.30.57:542][500]AssetCheck: New page: Asset Save: BP_Zombie
+[2024.02.09-19.30.57:542][500]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2024.02.09-19.31.29:420][464]LogEditorTransaction: Undo Move Node
+[2024.02.09-19.31.30:134][477]LogEditorTransaction: Undo Create Reroute Node
+[2024.02.09-19.31.33:380][605]LogEditorTransaction: Undo Create Pin Link
+[2024.02.09-19.31.52:300][361]BlueprintLog: New page: Compile BP_Zombie
+[2024.02.09-19.31.52:401][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.02.09-19.31.53:241][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-19.31.53:377][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Zombie" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset" SILENT=true
+[2024.02.09-19.31.53:389][390]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Zombie
+[2024.02.09-19.31.53:389][390]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_ZombieCF2BCD064F5C8CB2F8F120A84CF6469D.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset'
+[2024.02.09-19.31.53:409][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 2.38 sec)
+[2024.02.09-19.31.53:411][390]AssetCheck: New page: Asset Save: BP_Zombie
+[2024.02.09-19.31.53:411][390]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2024.02.09-19.32.16:118][830]BlueprintLog: New page: Compile BP_Zombie
+[2024.02.09-19.32.16:204][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.09-19.32.17:217][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-19.32.17:344][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Zombie" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset" SILENT=true
+[2024.02.09-19.32.17:355][868]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Zombie
+[2024.02.09-19.32.17:355][868]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_Zombie3695383543A3AA03508CE38E8E43D8F1.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset'
+[2024.02.09-19.32.17:370][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 2.53 sec)
+[2024.02.09-19.32.17:374][868]AssetCheck: New page: Asset Save: BP_Zombie
+[2024.02.09-19.32.17:374][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2024.02.09-19.33.23:573][678]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.02.09-19.33.23:610][678]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.09-19.33.32:526][ 71]BlueprintLog: New page: Compile BP_Zombie
+[2024.02.09-19.33.32:658][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.02.09-19.33.33:630][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-19.33.33:742][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Zombie" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset" SILENT=true
+[2024.02.09-19.33.33:752][101]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Zombie
+[2024.02.09-19.33.33:754][101]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_Zombie25D59B624D7A12B1B20D4E8CC7E536B6.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset'
+[2024.02.09-19.33.33:767][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 2.67 sec)
+[2024.02.09-19.33.33:769][101]AssetCheck: New page: Asset Save: BP_Zombie
+[2024.02.09-19.33.33:769][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
