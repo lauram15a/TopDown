@@ -1342,3 +1342,61 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.02.09-18.41.34:364][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.09-18.41.34:486][692]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.02.09-18.42.38:541][593]LogDerivedDataCache: C:/Users/laura/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.208 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8077 files in 9617 folders with total size 246 MiB.
+[2024.02.09-18.47.59:813][850]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.02.09-18.47.59:827][850]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.02.09-18.47.59:849][851]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.02.09-18.48.04:284][ 90]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Shoot
+[2024.02.09-18.48.04:330][ 90]LogContentBrowser: End creating deferred item NewInputAction
+[2024.02.09-18.48.08:469][304]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TopDown/Input/IMC_Default.IMC_Default
+[2024.02.09-18.48.13:624][498]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.09-18.48.33:635][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.48.33:761][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/IMC_Default" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Input/IMC_Default.uasset" SILENT=true
+[2024.02.09-18.48.33:763][876]LogSavePackage: Moving output files for package: /Game/TopDown/Input/IMC_Default
+[2024.02.09-18.48.33:764][876]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/IMC_DefaultDA3A1FD24E41F09C6458068BD1997CB9.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Input/IMC_Default.uasset'
+[2024.02.09-18.48.33:783][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 360 ms)
+[2024.02.09-18.48.33:784][876]AssetCheck: New page: Asset Save: IMC_Default
+[2024.02.09-18.48.33:785][876]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/TopDown/Input/IMC_Default.IMC_Default
+[2024.02.09-18.48.35:801][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.02.09-18.48.37:224][951]LogSlate: Window 'Save Content' being destroyed
+[2024.02.09-18.48.37:244][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.48.37:399][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/Actions/IA_Shoot" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Input/Actions/IA_Shoot.uasset" SILENT=true
+[2024.02.09-18.48.37:400][951]LogSavePackage: Moving output files for package: /Game/TopDown/Input/Actions/IA_Shoot
+[2024.02.09-18.48.37:400][951]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/IA_ShootAD9B106249771408741CC9812792BAA3.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Input/Actions/IA_Shoot.uasset'
+[2024.02.09-18.48.37:422][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 539 ms)
+[2024.02.09-18.48.37:424][951]AssetCheck: New page: Asset Save: IA_Shoot
+[2024.02.09-18.48.37:424][951]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/TopDown/Input/Actions/IA_Shoot.IA_Shoot
+[2024.02.09-18.48.47:183][335]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.02.09-18.48.47:184][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.48.47:184][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.09-18.48.47:575][336]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.48.47:697][337]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.49.28:415][402]LogViewport: Scene viewport resized to 1523x927, mode Windowed.
+[2024.02.09-18.50.00:597][379]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.50.40:128][160]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.02.09-18.50.40:223][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.02.09-18.50.41:195][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.50.41:318][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.09-18.50.41:353][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.09-18.50.41:380][189]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.09-18.50.41:380][189]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacter0454B4C34F4269DDAFD9D9AF0F7B5762.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.09-18.50.41:396][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 739 ms)
+[2024.02.09-18.50.41:399][189]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.09-18.50.41:399][189]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.02.09-18.50.51:657][359]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.02.09-18.50.51:747][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.02.09-18.50.52:460][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.50.52:569][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.09-18.50.52:592][378]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.09-18.50.52:593][378]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacterC1F273A4401885A59208B9947A6CE819.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.09-18.50.52:609][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 888 ms)
+[2024.02.09-18.50.52:611][378]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.09-18.50.52:611][378]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.02.09-18.51.41:173][832]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.02.09-18.51.41:256][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.09-18.51.42:722][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-18.51.42:843][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.09-18.51.42:865][874]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.09-18.51.42:865][874]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacter88F2B8A6428053AE97135E8CD89EE962.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.09-18.51.42:883][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1.04 sec)
+[2024.02.09-18.51.42:886][874]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.09-18.51.42:886][874]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
