@@ -17,12 +17,13 @@
 				"D:/TopDown/TopDown/Content/TopDown/Pistol/pistol.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Pistol/pistolcolor.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Pistol/pistolv2.uasset",
-				"D:/TopDown/TopDown/Content/TopDown/Pistol/M_pistol_Inst.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Pistol/pistolcolor_Mat.uasset",
 				"D:/TopDown/TopDown/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
 				"D:/TopDown/TopDown/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"D:/TopDown/TopDown/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
-				"D:/TopDown/TopDown/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset"
+				"D:/TopDown/TopDown/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Pistol/M_pistol_Inst.uasset"
 			]
 		}
 	]
