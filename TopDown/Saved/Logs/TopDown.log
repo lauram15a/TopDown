@@ -11940,3 +11940,569 @@ Script Stack (1 frames) :
 [2024.02.10-01.23.49:973][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 20.0 sec)
 [2024.02.10-01.23.49:976][242]AssetCheck: New page: Asset Save: BP_NPC_Good_C_UAID_10E7C66C3B56D2D701_1248330169
 [2024.02.10-01.23.49:976][242]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_NPC_Good.BP_NPC_Good_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NPC_Good_C_UAID_10E7C66C3B56D2D701_1248330169
+[2024.02.10-01.24.42:758][442]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NPC_C_UAID_10E7C66C3B56D1D701_1473434992.NPCIndicatorSprite, from: Remove from navoctree)
+[2024.02.10-01.24.52:266][715]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NPC_C_UAID_10E7C66C3B56D1D701_1473434992.NPCIndicatorSprite, from: Remove from navoctree)
+[2024.02.10-01.25.35:624][168]BlueprintLog: New page: Compile BP_NPC
+[2024.02.10-01.25.35:974][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.02.10-01.25.37:255][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.10-01.25.37:367][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_NPC" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_NPC.uasset" SILENT=true
+[2024.02.10-01.25.37:395][185]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_NPC
+[2024.02.10-01.25.37:395][185]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_NPC6B2EC1D444CF5C422ADDEDBAB2DA31FC.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_NPC.uasset'
+[2024.02.10-01.25.37:414][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 20.2 sec)
+[2024.02.10-01.25.37:419][185]AssetCheck: New page: Asset Save: BP_NPC
+[2024.02.10-01.25.37:419][185]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_NPC.BP_NPC
+[2024.02.10-01.25.49:664][559]BlueprintLog: New page: Compile BP_NPC
+[2024.02.10-01.25.50:008][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.02.10-01.25.50:526][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.10-01.25.50:658][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_NPC" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_NPC.uasset" SILENT=true
+[2024.02.10-01.25.50:684][560]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_NPC
+[2024.02.10-01.25.50:684][560]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_NPC3E3C985343B87D2E633E479684049F33.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_NPC.uasset'
+[2024.02.10-01.25.50:703][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 20.4 sec)
+[2024.02.10-01.25.50:707][560]AssetCheck: New page: Asset Save: BP_NPC
+[2024.02.10-01.25.50:707][560]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_NPC.BP_NPC
+[2024.02.10-01.25.53:793][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.10-01.25.53:807][682]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.10-01.25.53:807][682]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.10-01.25.53:810][682]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 165 ms)
+[2024.02.10-01.25.53:810][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.10-01.25.53:810][682]PIE: New page: PIE session: TopDownMap (10 feb. 2024 3:25:53)
+[2024.02.10-01.25.53:810][682]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.10-01.25.53:825][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015240s)
+[2024.02.10-01.25.53:825][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.015335s)
+[2024.02.10-01.25.53:850][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.10-01.25.53:853][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.10-01.25.53:853][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.10-01.25.53:853][682]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.10-01.25.53:853][682]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.10-01.25.53:854][682]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.10-01.25.53:854][682]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.10-01.25.53:854][682]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.10-01.25.53:857][682]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.10-01.25.53:857][682]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 238 ms)
+[2024.02.10-01.25.53:857][682]LogPlayLevel: PIE: World Init took: (0.004767s)
+[2024.02.10-01.25.53:857][682]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.02.10-01.25.53:857][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.10-01.25.53:857][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.10-01.25.53:857][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.10-01.25.53:857][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.10-01.25.53:857][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.10-01.25.53:857][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.10-01.25.53:857][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.10-01.25.53:857][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.10-01.25.53:858][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.10-01.25.53:858][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.10-01.25.53:858][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.10-01.25.53:861][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.10-01.25.53:891][682]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.10-01.25.53:891][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.10-01.25.53:891][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.10-01.25.53:891][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.10-01.25.53:892][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.02.10-01.25.53:892][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.02.10-01.25.53:894][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.02.10-01.25.53:894][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.02.10-01.25.53:894][682]LogInit: FAudioDevice initialized with ID 32.
+[2024.02.10-01.25.53:894][682]LogAudio: Display: Audio Device (ID: 32) registered with world 'TopDownMap'.
+[2024.02.10-01.25.53:894][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.02.10-01.25.53:897][682]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.10-01.25.53:927][682]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.10-02.25.53
+[2024.02.10-01.25.53:937][682]LogWorld: Bringing up level for play took: 0.039035
+[2024.02.10-01.25.53:939][682]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.02.10-01.25.53:947][682]PIE: Server logged in
+[2024.02.10-01.25.53:948][682]PIE: Play in editor total start time 0,141 seconds.
+[2024.02.10-01.26.15:898][947]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.15:899][947]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.15:914][948]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.15:914][948]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.15:931][949]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.15:931][949]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.15:947][950]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.15:947][950]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.15:965][951]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.15:965][951]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.15:981][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.15:981][952]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.15:997][953]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.15:997][953]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:014][954]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:014][954]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:030][955]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:031][955]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:047][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:047][956]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:064][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:064][957]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:081][958]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:081][958]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:118][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:118][959]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:133][960]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:133][960]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:149][961]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:149][961]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:166][962]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:166][962]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:198][963]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:198][963]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:212][964]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:212][964]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:229][965]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:230][965]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:247][966]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:247][966]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:262][967]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:262][967]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:279][968]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:279][968]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:295][969]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:296][969]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:311][970]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:311][970]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:328][971]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:328][971]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:346][972]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:346][972]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:362][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:362][973]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:379][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:379][974]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:396][975]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:396][975]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:411][976]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:413][976]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:429][977]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:429][977]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:446][978]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:446][978]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:462][979]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:462][979]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:479][980]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:479][980]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:495][981]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:496][981]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:511][982]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:511][982]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:529][983]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:529][983]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:545][984]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:545][984]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:563][985]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:563][985]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:578][986]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:578][986]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:595][987]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:595][987]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:611][988]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:611][988]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:628][989]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:628][989]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:646][990]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:646][990]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:661][991]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:661][991]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:678][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:679][992]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:696][993]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:696][993]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:713][994]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:713][994]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:728][995]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:728][995]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:746][996]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:746][996]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:761][997]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:761][997]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:779][998]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:779][998]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:796][999]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:796][999]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:812][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:812][  0]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:829][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:829][  1]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:846][  2]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:846][  2]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:861][  3]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:861][  3]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:878][  4]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:878][  4]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:895][  5]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:896][  5]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:911][  6]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:911][  6]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:928][  7]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:928][  7]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:946][  8]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:946][  8]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:964][  9]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:964][  9]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:979][ 10]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:979][ 10]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.16:996][ 11]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.16:996][ 11]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.17:012][ 12]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.17:012][ 12]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.17:029][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.17:029][ 13]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_0
+[2024.02.10-01.26.53:543][196]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:543][196]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:559][197]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:559][197]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:576][198]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:576][198]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:593][199]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:593][199]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:608][200]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:608][200]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:626][201]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:626][201]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:642][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:642][202]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:659][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:659][203]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:676][204]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:676][204]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:693][205]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:693][205]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:709][206]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:709][206]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:725][207]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:726][207]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:742][208]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:742][208]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:759][209]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:759][209]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:776][210]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:776][210]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:793][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:793][211]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:809][212]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:809][212]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:826][213]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:826][213]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:841][214]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:843][214]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:859][215]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:859][215]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:875][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:876][216]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:891][217]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:893][217]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:909][218]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:909][218]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:925][219]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:925][219]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:941][220]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:941][220]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:959][221]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:959][221]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:976][222]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:976][222]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.53:993][223]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.53:993][223]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:009][224]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:009][224]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:026][225]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:027][225]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:043][226]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:043][226]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:059][227]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:059][227]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:076][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:076][228]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:093][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:093][229]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:110][230]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:110][230]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:126][231]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:126][231]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:143][232]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:143][232]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:159][233]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:159][233]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:176][234]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:176][234]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:193][235]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:193][235]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:209][236]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:209][236]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:226][237]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:226][237]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:243][238]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:243][238]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:260][239]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:260][239]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:276][240]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:276][240]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:293][241]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:293][241]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:309][242]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:309][242]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:326][243]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:326][243]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:343][244]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:343][244]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:360][245]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:360][245]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:376][246]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:376][246]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:393][247]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:393][247]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:409][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:409][248]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:425][249]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:425][249]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:443][250]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:443][250]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:459][251]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:459][251]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:477][252]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:477][252]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:491][253]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:491][253]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:509][254]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:509][254]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:526][255]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:526][255]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:541][256]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:543][256]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:559][257]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:559][257]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:575][258]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:576][258]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:592][259]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:593][259]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:609][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:609][260]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:626][261]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:626][261]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:643][262]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:643][262]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:659][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:659][263]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:676][264]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:676][264]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:693][265]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:693][265]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:709][266]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:709][266]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:727][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:727][267]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:745][268]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:745][268]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:763][269]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:763][269]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:779][270]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:780][270]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:795][271]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:796][271]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:813][272]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:813][272]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:830][273]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:830][273]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:847][274]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:847][274]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:864][275]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:864][275]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:880][276]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:880][276]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:897][277]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:897][277]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:916][278]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:916][278]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:935][279]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:936][279]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:956][280]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:956][280]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:976][281]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:976][281]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.54:998][282]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.54:999][282]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:020][283]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:020][283]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:036][284]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:036][284]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:053][285]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:053][285]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:069][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:069][286]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:085][287]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:085][287]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:103][288]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:103][288]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:118][289]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:118][289]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:135][290]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:135][290]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:151][291]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:151][291]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:168][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:169][292]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:184][293]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:184][293]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:202][294]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:202][294]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:218][295]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:218][295]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:235][296]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:235][296]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:251][297]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:251][297]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:268][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:268][298]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:285][299]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:285][299]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:302][300]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:302][300]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:318][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:318][301]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:335][302]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:335][302]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:352][303]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:352][303]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:368][304]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:368][304]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:385][305]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:385][305]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:401][306]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:401][306]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:418][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:418][307]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:435][308]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:435][308]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:451][309]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:451][309]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:468][310]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:468][310]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:485][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:485][311]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:503][312]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:503][312]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:519][313]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:519][313]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:536][314]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:536][314]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:553][315]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:553][315]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:569][316]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:569][316]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:587][317]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:587][317]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:606][318]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:606][318]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:621][319]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:621][319]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:638][320]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:638][320]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:654][321]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:654][321]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:670][322]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:670][322]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:687][323]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:687][323]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:705][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:705][324]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:721][325]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:721][325]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:738][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:738][326]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:754][327]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:755][327]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:771][328]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:771][328]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:788][329]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:788][329]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:806][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:806][330]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:822][331]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:822][331]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:838][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:838][332]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:855][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:855][333]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:871][334]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:871][334]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:887][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:887][335]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:904][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:904][336]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:920][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:920][337]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:937][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:937][338]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:954][339]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:955][339]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:971][340]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:971][340]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.55:987][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.55:987][341]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:005][342]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:005][342]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:021][343]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:021][343]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:037][344]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:038][344]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:054][345]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:054][345]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:071][346]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:071][346]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:087][347]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:087][347]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:104][348]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:104][348]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:121][349]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:121][349]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:137][350]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:137][350]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:154][351]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:154][351]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:170][352]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:171][352]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:187][353]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:187][353]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:204][354]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:205][354]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:220][355]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:221][355]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:237][356]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:238][356]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:254][357]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:254][357]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:271][358]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:271][358]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:287][359]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:288][359]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:305][360]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:305][360]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:320][361]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:320][361]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:337][362]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:337][362]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:356][363]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:356][363]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:371][364]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:371][364]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.26.56:388][365]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.10-01.26.56:388][365]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_30.W_DialogueWidget_C_1
+[2024.02.10-01.27.05:344][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.10-01.27.05:345][889]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.10-01.27.05:345][889]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.10-01.27.05:346][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.10-01.27.05:346][889]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.10-01.27.05:351][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.10-01.27.05:359][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.10-01.27.05:389][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.10-01.27.05:389][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.02.10-01.27.05:390][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.02.10-01.27.05:391][889]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.02.10-01.27.05:398][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.10-01.27.05:403][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.10-01.27.05:625][890]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.02.10-01.27.07:973][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.10-01.27.10:186][998]LogSlate: Window 'Save Content' being destroyed
+[2024.02.10-01.27.10:208][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.10-01.27.10:362][998]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/CA/FU27L5O504ILKRAJEMB9DX
+[2024.02.10-01.27.10:362][998]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/FU27L5O504ILKRAJEMB9DX4B17090C41A3FFB2871D4B862A21E228.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/CA/FU27L5O504ILKRAJEMB9DX.uasset'
+[2024.02.10-01.27.10:381][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 20.6 sec)
+[2024.02.10-01.27.10:384][998]AssetCheck: New page: Asset Save: BP_NPC_C_UAID_10E7C66C3B56D1D701_1473434992
+[2024.02.10-01.27.10:385][998]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_NPC.BP_NPC_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NPC_C_UAID_10E7C66C3B56D1D701_1473434992
