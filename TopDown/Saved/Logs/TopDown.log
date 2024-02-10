@@ -11009,3 +11009,66 @@ Script Stack (1 frames) :
 [2024.02.10-01.01.25:816][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
 [2024.02.10-01.01.25:826][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
 [2024.02.10-01.01.26:032][384]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.02.10-01.02.35:552][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.10-01.02.37:188][830]LogSlate: Window 'Save Content' being destroyed
+[2024.02.10-01.02.37:205][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.10-01.02.37:335][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/CA/FU27L5O504ILKRAJEMB9DX
+[2024.02.10-01.02.37:335][830]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/FU27L5O504ILKRAJEMB9DXFDE6021742E4265B9971DFA3F71A86E6.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/CA/FU27L5O504ILKRAJEMB9DX.uasset'
+[2024.02.10-01.02.37:342][830]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/5M/ZGYI7Y1LRQ8GCW1ULI8NPE
+[2024.02.10-01.02.37:343][830]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/ZGYI7Y1LRQ8GCW1ULI8NPE6C779E074540E7B8F07E0C9AA11D460E.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/5M/ZGYI7Y1LRQ8GCW1ULI8NPE.uasset'
+[2024.02.10-01.02.37:345][830]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TopDown/Maps/TopDownMap/5/O5/202HINFRWE5IQMMHD1CUU1
+[2024.02.10-01.02.37:345][830]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/202HINFRWE5IQMMHD1CUU1896F11784AC0DFCCFC8EA0B8B06B241E.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalObjects__/TopDown/Maps/TopDownMap/5/O5/202HINFRWE5IQMMHD1CUU1.uasset'
+[2024.02.10-01.02.37:368][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 17.1 sec)
+[2024.02.10-01.02.37:373][830]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.10-01.02.37:373][830]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_NPC.BP_NPC_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NPC_C_UAID_10E7C66C3B56D1D701_1473434992
+[2024.02.10-01.02.37:373][830]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_NPC_Good.BP_NPC_Good_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NPC_Good_C_UAID_10E7C66C3B56D2D701_1248330169
+[2024.02.10-01.02.37:373][830]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ActorFolder_UID_DBF03114-43ABCE28-604BAB87-F5716A1A
+[2024.02.10-01.03.04:855][161]Cmd: EDIT COPY
+[2024.02.10-01.03.05:357][182]Cmd: EDIT PASTE
+[2024.02.10-01.04.13:212][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.10-01.04.13:360][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.10-01.04.13:384][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.02.10-01.04.13:408][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.10-01.04.13:412][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/HK/K0ZDGGVN0XAHMUMJB2FYQB
+[2024.02.10-01.04.13:412][520]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/K0ZDGGVN0XAHMUMJB2FYQB3E0143FE4966AE641E80C68FF32707D8.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/HK/K0ZDGGVN0XAHMUMJB2FYQB.uasset'
+[2024.02.10-01.04.13:513][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/0L/GLKNDF5X883IHRBU8BW5K9
+[2024.02.10-01.04.13:513][520]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/GLKNDF5X883IHRBU8BW5K9D244E30C434CB2667DC46D9EDA2C1B2C.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/0L/GLKNDF5X883IHRBU8BW5K9.uasset'
+[2024.02.10-01.04.13:516][520]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/HN/50VDRYHUQW0ZVKPEFWXTDO
+[2024.02.10-01.04.13:516][520]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/50VDRYHUQW0ZVKPEFWXTDO18C8B5324F7DFADFAF094AA2B0BC21DB.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/HN/50VDRYHUQW0ZVKPEFWXTDO.uasset'
+[2024.02.10-01.04.13:534][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 321 ms (total: 17.4 sec)
+[2024.02.10-01.04.13:550][520]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.10-01.04.13:550][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_10E7C66C3B56D2D701_1879146170
+[2024.02.10-01.04.13:550][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_10E7C66C3B56D2D701_1879153171
+[2024.02.10-01.04.13:550][520]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_10E7C66C3B56D2D701_1879156172
+[2024.02.10-01.04.20:045][825]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C
+[2024.02.10-01.04.20:045][825]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C
+[2024.02.10-01.04.20:061][825]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_0
+[2024.02.10-01.04.20:070][825]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_0
+[2024.02.10-01.04.27:697][202]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C
+[2024.02.10-01.04.27:697][202]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C
+[2024.02.10-01.04.27:710][202]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_1
+[2024.02.10-01.04.27:718][202]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_1
+[2024.02.10-01.04.29:221][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C
+[2024.02.10-01.04.29:221][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C
+[2024.02.10-01.04.29:232][282]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_UAID_10E7C66C3B56D2D701_1963009173
+[2024.02.10-01.04.29:244][282]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie as actor: BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_UAID_10E7C66C3B56D2D701_1963009173
+[2024.02.10-01.04.31:123][354]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C
+[2024.02.10-01.04.31:123][354]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C
+[2024.02.10-01.04.31:129][354]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow as actor: BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_7
+[2024.02.10-01.04.31:133][354]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow as actor: BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_7
+[2024.02.10-01.04.31:679][377]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C
+[2024.02.10-01.04.31:679][377]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C
+[2024.02.10-01.04.31:683][377]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow as actor: BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B56D2D701_1965467174
+[2024.02.10-01.04.31:688][377]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow as actor: BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B56D2D701_1965467174
+[2024.02.10-01.04.39:999][750]Cmd: EDIT COPY
+[2024.02.10-01.04.40:535][774]Cmd: EDIT PASTE
+[2024.02.10-01.04.41:497][803]Cmd: EDIT PASTE
+[2024.02.10-01.04.42:215][819]Cmd: EDIT PASTE
+[2024.02.10-01.04.42:951][838]Cmd: EDIT PASTE
+[2024.02.10-01.04.43:795][862]Cmd: EDIT PASTE
+[2024.02.10-01.06.06:065][590]Cmd: EDIT COPY
+[2024.02.10-01.06.06:588][614]Cmd: EDIT PASTE
+[2024.02.10-01.06.07:334][640]Cmd: EDIT PASTE
+[2024.02.10-01.06.08:034][660]Cmd: EDIT PASTE
+[2024.02.10-01.06.08:726][680]Cmd: EDIT PASTE
+[2024.02.10-01.06.09:882][724]Cmd: EDIT PASTE
