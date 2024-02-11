@@ -4236,3 +4236,12 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.11-22.28.13:520][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.02.11-22.28.13:530][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
 [2024.02.11-22.28.13:570][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.02.11-22.29.01:420][ 36]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.02.11-22.29.01:536][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.02.11-22.29.02:463][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.29.02:610][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.11-22.29.02:657][ 60]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.11-22.29.02:658][ 60]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacter730567DD4293CE1334CCFDAF6BF2A9D2.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.11-22.29.02:673][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 5.43 sec)
+[2024.02.11-22.29.02:676][ 60]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.11-22.29.02:676][ 60]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
