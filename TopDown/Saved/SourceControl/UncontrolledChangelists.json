@@ -91,6 +91,8 @@
 				"D:/TopDown/TopDown/Content/TopDown/Maps/MainMenu.umap",
 				"D:/TopDown/TopDown/Content/HUD/W_Pause.uasset",
 				"D:/TopDown/TopDown/Content/TopDown/Input/Actions/IA_Pause.uasset",
+				"D:/TopDown/TopDown/Content/HUD/W_MainMenu.uasset",
+				"D:/TopDown/TopDown/Content/TopDown/Blueprints/BP_MainMenu.uasset",
 				"D:/TopDown/TopDown/Content/HUD/W_UIWidget.uasset",
 				"D:/TopDown/TopDown/Content/Collectables/b.uasset",
 				"D:/TopDown/TopDown/Content/Collectables/W_CollectablesWidget.uasset",
