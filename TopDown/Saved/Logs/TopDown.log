@@ -3923,3 +3923,316 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.11-22.23.25:400][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.02.11-22.23.25:410][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
 [2024.02.11-22.23.25:515][938]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.02.11-22.25.08:227][115]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Radial_Menu_FadeOut...
+[2024.02.11-22.25.08:253][115]LogAudio: Display: Chunk sizes for SoundWave /Engine/VREditor/Sounds/UI/Radial_Menu_FadeOut.Radial_Menu_FadeOut: Chunk0=28 bytes, Chunk1-N=256k
+[2024.02.11-22.25.11:810][250]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.02.11-22.25.11:944][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.02.11-22.25.12:626][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.25.12:791][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.11-22.25.12:836][262]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.11-22.25.12:837][262]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacterC39380E44536C480E4E7DF9EBFE0B293.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.11-22.25.12:853][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 4.32 sec)
+[2024.02.11-22.25.12:857][262]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.11-22.25.12:857][262]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.02.11-22.25.31:594][975]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.02.11-22.25.31:722][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.02.11-22.25.32:664][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.25.32:824][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.11-22.25.32:869][  1]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.11-22.25.32:869][  1]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacter457FEB86442C438F10225799D7AA96A6.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.11-22.25.32:885][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 4.54 sec)
+[2024.02.11-22.25.32:887][  1]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.11-22.25.32:887][  1]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.02.11-22.26.05:009][216]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.02.11-22.26.05:152][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.02.11-22.26.06:053][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.26.06:251][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.11-22.26.06:298][240]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.11-22.26.06:298][240]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacter400CA0074A2673B1AEAFD09A75E02C33.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.11-22.26.06:314][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 261 ms (total: 4.80 sec)
+[2024.02.11-22.26.06:318][240]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.11-22.26.06:318][240]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.02.11-22.26.09:247][370]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.11-22.26.09:266][370]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.11-22.26.09:266][370]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.11-22.26.09:274][370]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 7 ms (total: 553 ms)
+[2024.02.11-22.26.09:274][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-22.26.09:274][370]PIE: New page: PIE session: TopDownMap (12 feb. 2024 0:26:09)
+[2024.02.11-22.26.09:275][370]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.11-22.26.09:296][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022048s)
+[2024.02.11-22.26.09:296][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.022104s)
+[2024.02.11-22.26.09:334][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.02.11-22.26.09:339][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.26.09:339][370]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.26.09:339][370]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.11-22.26.09:340][370]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.11-22.26.09:340][370]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.11-22.26.09:340][370]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.11-22.26.09:340][370]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.11-22.26.09:345][370]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.11-22.26.09:345][370]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 748 ms)
+[2024.02.11-22.26.09:345][370]LogPlayLevel: PIE: World Init took: (0.005693s)
+[2024.02.11-22.26.09:345][370]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.11-22.26.09:345][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-22.26.09:345][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-22.26.09:345][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-22.26.09:345][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-22.26.09:345][370]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.11-22.26.09:345][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-22.26.09:345][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.11-22.26.09:345][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-22.26.09:346][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.11-22.26.09:346][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.11-22.26.09:346][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.11-22.26.09:348][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.11-22.26.09:377][370]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.11-22.26.09:377][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-22.26.09:377][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-22.26.09:377][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-22.26.09:378][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.11-22.26.09:378][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.11-22.26.09:381][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.11-22.26.09:381][370]LogInit: FAudioDevice initialized with ID 11.
+[2024.02.11-22.26.09:381][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.11-22.26.09:381][370]LogAudio: Display: Audio Device (ID: 11) registered with world 'TopDownMap'.
+[2024.02.11-22.26.09:381][370]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.11-22.26.09:384][370]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.11-22.26.09:423][370]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.11-23.26.09
+[2024.02.11-22.26.09:436][370]LogWorld: Bringing up level for play took: 0.052259
+[2024.02.11-22.26.09:439][370]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.02.11-22.26.09:447][370]PIE: Server logged in
+[2024.02.11-22.26.09:448][370]PIE: Play in editor total start time 0,182 seconds.
+[2024.02.11-22.26.13:898][575]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.13:898][575]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.13:919][576]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.13:919][576]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.13:938][577]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.13:939][577]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.13:959][578]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.13:959][578]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.13:979][579]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.13:979][579]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:000][580]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:000][580]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:020][581]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:020][581]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:040][582]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:040][582]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:060][583]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:060][583]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:081][584]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:081][584]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:102][585]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:102][585]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:122][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:122][586]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:143][587]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:143][587]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:162][588]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:162][588]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:184][589]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:184][589]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:203][590]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:203][590]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:222][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:223][591]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:242][592]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:242][592]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:262][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:262][593]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:282][594]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:282][594]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:302][595]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:303][595]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:322][596]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:322][596]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:342][597]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:342][597]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:363][598]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:363][598]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:384][599]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:384][599]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:405][600]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:405][600]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:427][601]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:427][601]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:447][602]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:447][602]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:468][603]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:468][603]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:488][604]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:488][604]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:509][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:510][605]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:531][606]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:531][606]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:551][607]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:551][607]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:571][608]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:571][608]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:590][609]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:590][609]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:612][610]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:612][610]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:632][611]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:632][611]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.14:651][612]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.11-22.26.14:652][612]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.W_DialogueWidget_C_0
+[2024.02.11-22.26.49:253][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.26.49:253][565]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.11-22.26.49:254][565]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-22.26.49:255][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.26.49:255][565]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.11-22.26.49:260][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-22.26.49:269][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.26.49:298][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-22.26.49:299][565]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.11-22.26.49:299][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.11-22.26.49:301][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.11-22.26.49:307][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.26.49:313][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.02.11-22.26.49:349][566]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.02.11-22.26.55:381][870]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.11-22.26.55:392][870]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.11-22.26.55:392][870]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.11-22.26.55:399][870]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 6 ms (total: 559 ms)
+[2024.02.11-22.26.55:399][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-22.26.55:399][870]PIE: New page: PIE session: TopDownMap (12 feb. 2024 0:26:55)
+[2024.02.11-22.26.55:399][870]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.11-22.26.55:417][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017461s)
+[2024.02.11-22.26.55:417][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.017552s)
+[2024.02.11-22.26.55:438][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.11-22.26.55:439][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.26.55:439][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.26.55:440][870]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.11-22.26.55:441][870]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.11-22.26.55:441][870]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.11-22.26.55:441][870]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.11-22.26.55:441][870]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.11-22.26.55:445][870]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.11-22.26.55:446][870]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 752 ms)
+[2024.02.11-22.26.55:446][870]LogPlayLevel: PIE: World Init took: (0.006082s)
+[2024.02.11-22.26.55:446][870]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.11-22.26.55:446][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-22.26.55:446][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-22.26.55:446][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-22.26.55:446][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-22.26.55:446][870]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.11-22.26.55:446][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-22.26.55:446][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.11-22.26.55:446][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-22.26.55:447][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.11-22.26.55:447][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.11-22.26.55:447][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.11-22.26.55:449][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.11-22.26.55:477][870]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.11-22.26.55:477][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-22.26.55:477][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-22.26.55:477][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-22.26.55:477][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.11-22.26.55:477][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.11-22.26.55:480][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.11-22.26.55:480][870]LogInit: FAudioDevice initialized with ID 12.
+[2024.02.11-22.26.55:480][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.11-22.26.55:480][870]LogAudio: Display: Audio Device (ID: 12) registered with world 'TopDownMap'.
+[2024.02.11-22.26.55:480][870]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.11-22.26.55:483][870]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.11-22.26.55:518][870]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.11-23.26.55
+[2024.02.11-22.26.55:529][870]LogWorld: Bringing up level for play took: 0.045626
+[2024.02.11-22.26.55:531][870]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.02.11-22.26.55:539][870]PIE: Server logged in
+[2024.02.11-22.26.55:539][870]PIE: Play in editor total start time 0,147 seconds.
+[2024.02.11-22.27.03:840][252]Cmd: quit
+[2024.02.11-22.27.03:840][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.27.03:840][252]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.11-22.27.03:863][252]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-22.27.03:866][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.27.03:867][252]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.11-22.27.03:872][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-22.27.03:882][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.27.03:908][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.27.03:912][252]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.11-22.27.03:912][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.11-22.27.03:915][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.11-22.27.03:937][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.02.11-22.27.04:052][253]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.02.11-22.27.34:740][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.27.34:872][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.11-22.27.34:924][480]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.11-22.27.34:924][480]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacter1A2319EE400CF4CE3583EE9A5575DC6B.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.11-22.27.34:936][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 5.00 sec)
+[2024.02.11-22.27.34:939][480]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.11-22.27.34:939][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.02.11-22.27.57:558][290]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.02.11-22.27.57:686][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.02.11-22.27.58:638][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.27.58:798][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownCharacter" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset" SILENT=true
+[2024.02.11-22.27.58:844][313]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2024.02.11-22.27.58:844][313]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_TopDownCharacterBFF687A64EEABA1130D0EEB27BC14156.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2024.02.11-22.27.58:860][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 5.22 sec)
+[2024.02.11-22.27.58:865][313]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2024.02.11-22.27.58:865][313]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2024.02.11-22.28.01:898][442]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.11-22.28.01:913][442]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.11-22.28.01:913][442]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.11-22.28.01:917][442]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 4 ms (total: 563 ms)
+[2024.02.11-22.28.01:918][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-22.28.01:918][442]PIE: New page: PIE session: TopDownMap (12 feb. 2024 0:28:01)
+[2024.02.11-22.28.01:943][442]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.11-22.28.01:968][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024950s)
+[2024.02.11-22.28.01:968][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.025013s)
+[2024.02.11-22.28.02:002][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.02.11-22.28.02:009][442]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.28.02:009][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.28.02:010][442]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.11-22.28.02:010][442]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.11-22.28.02:010][442]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.11-22.28.02:010][442]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.11-22.28.02:010][442]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.11-22.28.02:015][442]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.11-22.28.02:015][442]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 756 ms)
+[2024.02.11-22.28.02:015][442]LogPlayLevel: PIE: World Init took: (0.005453s)
+[2024.02.11-22.28.02:015][442]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.11-22.28.02:015][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-22.28.02:015][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-22.28.02:015][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-22.28.02:015][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-22.28.02:015][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.11-22.28.02:015][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-22.28.02:015][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.11-22.28.02:015][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-22.28.02:016][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.11-22.28.02:016][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.11-22.28.02:016][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.11-22.28.02:018][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.11-22.28.02:045][442]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.11-22.28.02:046][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-22.28.02:046][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-22.28.02:046][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-22.28.02:046][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.11-22.28.02:047][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.11-22.28.02:049][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.11-22.28.02:049][442]LogInit: FAudioDevice initialized with ID 13.
+[2024.02.11-22.28.02:049][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.11-22.28.02:049][442]LogAudio: Display: Audio Device (ID: 13) registered with world 'TopDownMap'.
+[2024.02.11-22.28.02:049][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.11-22.28.02:052][442]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.11-22.28.02:090][442]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.11-23.28.02
+[2024.02.11-22.28.02:103][442]LogWorld: Bringing up level for play took: 0.050308
+[2024.02.11-22.28.02:106][442]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.02.11-22.28.02:114][442]PIE: Server logged in
+[2024.02.11-22.28.02:114][442]PIE: Play in editor total start time 0,201 seconds.
+[2024.02.11-22.28.13:465][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.28.13:465][ 72]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.11-22.28.13:468][ 72]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-22.28.13:474][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.28.13:475][ 72]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.11-22.28.13:481][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-22.28.13:490][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.28.13:510][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-22.28.13:511][ 72]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.11-22.28.13:512][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.11-22.28.13:514][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.11-22.28.13:520][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.28.13:530][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.11-22.28.13:570][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_32
