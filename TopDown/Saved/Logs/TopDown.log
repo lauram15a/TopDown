@@ -1456,3 +1456,295 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.11-22.10.44:983][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2024.02.11-22.10.45:004][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
 [2024.02.11-22.10.45:031][845]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.02.11-22.11.15:717][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_Projectile.BP_Projectile
+[2024.02.11-22.11.15:717][452]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.11.15:718][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.11.19:691][613]LogViewport: Scene viewport resized to 1523x927, mode Windowed.
+[2024.02.11-22.11.36:387][274]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.12.30:321][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.12.30:471][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Projectile" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Projectile.uasset" SILENT=true
+[2024.02.11-22.12.30:479][406]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Projectile
+[2024.02.11-22.12.30:479][406]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_Projectile5622A22B450366349F1B8AA031370ABF.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Projectile.uasset'
+[2024.02.11-22.12.30:498][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 795 ms)
+[2024.02.11-22.12.30:500][406]AssetCheck: New page: Asset Save: BP_Projectile
+[2024.02.11-22.12.30:500][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Projectile.BP_Projectile
+[2024.02.11-22.12.32:494][488]BlueprintLog: New page: Compile BP_Projectile
+[2024.02.11-22.12.32:547][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.02.11-22.12.34:854][592]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.11-22.12.34:866][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-22.12.34:866][592]PIE: New page: PIE session: MainMenu (12 feb. 2024 0:12:34)
+[2024.02.11-22.12.34:867][592]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_MainMenu
+[2024.02.11-22.12.34:868][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001280s)
+[2024.02.11-22.12.34:868][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/MainMenu.MainMenu to /Game/TopDown/Maps/UEDPIE_0_MainMenu.MainMenu (0.001340s)
+[2024.02.11-22.12.34:893][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.11-22.12.34:895][592]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.12.34:896][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.12.34:896][592]LogAIModule: Creating AISystem for world MainMenu
+[2024.02.11-22.12.34:897][592]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2024.02.11-22.12.34:897][592]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.11-22.12.34:897][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-22.12.34:897][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-22.12.34:897][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-22.12.34:897][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-22.12.34:897][592]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.11-22.12.34:897][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-22.12.34:897][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.11-22.12.34:897][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-22.12.34:898][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.11-22.12.34:898][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.11-22.12.34:898][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.11-22.12.34:901][592]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.11-22.12.34:929][592]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.11-22.12.34:929][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-22.12.34:929][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-22.12.34:929][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-22.12.34:930][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.11-22.12.34:930][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.11-22.12.34:933][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.11-22.12.34:933][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.11-22.12.34:933][592]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.11-22.12.34:933][592]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2024.02.11-22.12.34:933][592]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.11-22.12.34:936][592]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.02.11-22.12.34:936][592]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.02.11-23.12.34
+[2024.02.11-22.12.34:936][592]LogWorld: Bringing up level for play took: 0.000460
+[2024.02.11-22.12.34:939][592]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.02.11-22.12.34:941][592]PIE: Server logged in
+[2024.02.11-22.12.34:942][592]PIE: Play in editor total start time 0,076 seconds.
+[2024.02.11-22.12.35:650][634]LogNet: Browse: /Game/TopDown/Maps/TopDownMap
+[2024.02.11-22.12.35:650][634]LogLoad: LoadMap: /Game/TopDown/Maps/TopDownMap
+[2024.02.11-22.12.35:650][634]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_MainMenu
+[2024.02.11-22.12.35:650][634]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-22.12.35:650][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.12.35:703][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-22.12.35:706][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.02.11-22.12.35:720][634]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2024.02.11-22.12.35:720][634]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.12.35:720][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.12.35:721][634]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.11-22.12.35:721][634]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.11-22.12.35:721][634]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.11-22.12.35:721][634]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.02.11-22.12.35:721][634]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.11-22.12.35:723][634]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.11-22.12.35:780][634]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 56 ms (total: 464 ms)
+[2024.02.11-22.12.35:784][634]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.11-22.12.35:784][634]LogWorldPartition: Display: WorldPartition initialize took 62 ms (total: 487 ms)
+[2024.02.11-22.12.35:784][634]LogPlayLevel: PIE: World Init took: (0.064274s)
+[2024.02.11-22.12.35:785][634]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.11-22.12.35:838][634]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.11-23.12.35
+[2024.02.11-22.12.35:852][634]LogWorld: Bringing up level for play took: 0.067164
+[2024.02.11-22.12.35:860][634]LogLoad: Took 0.209722 seconds to LoadMap(/Game/TopDown/Maps/TopDownMap)
+[2024.02.11-22.12.46:574][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.12.46:574][210]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.11-22.12.46:575][210]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-22.12.46:577][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.12.46:578][210]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.11-22.12.46:584][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-22.12.46:589][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.12.46:605][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-22.12.46:608][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.11-22.12.46:608][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.11-22.12.46:610][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.11-22.12.46:616][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.12.46:624][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.02.11-22.12.46:648][211]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.11-22.12.54:075][538]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.GradientMap_Multi_Example
+[2024.02.11-22.12.54:347][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.12.54:347][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.12.54:646][538]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.02.11-22.12.55:234][538]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.11-22.12.55:234][538]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.12.55:234][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.12.55:234][538]MaterialEditorStats: Shader Count: 0
+[2024.02.11-22.12.55:257][538]LogViewport: Scene viewport resized to 502x601, mode Windowed.
+[2024.02.11-22.12.58:786][681]LogShaderCompilers: Display: ================================================
+[2024.02.11-22.12.58:786][681]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.11-22.12.58:786][681]LogShaderCompilers: Display: Total job queries 76, among them cache hits 0 (0.00%)
+[2024.02.11-22.12.58:786][681]LogShaderCompilers: Display: Tracking 73 distinct input hashes that result in 33 distinct outputs (45.21%)
+[2024.02.11-22.12.58:786][681]LogShaderCompilers: Display: RAM used: 1,82 MiB of 819,20 MiB budget. Usage: 0.22%
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Job execution time: average 3.44 s, max 3.44 s
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Job life time (pending + execution): average 3.49 s, max 3.49
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Shader code size: average 32,34 KiB, min 32,34 KiB, max 32,34 KiB
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.49 s
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Average processing rate: 0.29 jobs/sec
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Total thread time: 0,321 s
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Total thread preprocess time: 0,064 s
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Percentage time preprocessing: 20.05%
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Effective parallelization: 0.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.02.11-22.12.58:787][681]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2024.02.11-22.12.58:788][681]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.02.11-22.12.58:788][681]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2024.02.11-22.12.58:788][681]LogShaderCompilers: Display: ================================================
+[2024.02.11-22.13.00:088][724]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.02.11-22.13.00:088][724]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.11-22.13.00:088][724]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.11-22.13.00:088][724]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.00:088][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.00:088][724]MaterialEditorStats: Shader Count: 4
+[2024.02.11-22.13.09:357][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.13.25:716][ 29]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.11-22.13.25:716][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.25:716][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.25:716][ 29]MaterialEditorStats: Shader Count: 0
+[2024.02.11-22.13.25:821][ 31]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.02.11-22.13.25:821][ 31]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.11-22.13.25:821][ 31]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.11-22.13.25:821][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.25:821][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.25:821][ 31]MaterialEditorStats: Shader Count: 4
+[2024.02.11-22.13.28:367][153]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.11-22.13.28:367][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.28:367][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.28:367][153]MaterialEditorStats: Shader Count: 0
+[2024.02.11-22.13.28:468][155]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.02.11-22.13.28:468][155]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.11-22.13.28:468][155]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.11-22.13.28:468][155]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.28:468][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.28:468][155]MaterialEditorStats: Shader Count: 4
+[2024.02.11-22.13.47:940][141]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.11-22.13.47:940][141]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.47:940][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.47:941][141]MaterialEditorStats: Shader Count: 0
+[2024.02.11-22.13.48:044][144]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.02.11-22.13.48:044][144]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.11-22.13.48:044][144]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.11-22.13.48:044][144]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.48:044][144]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.48:044][144]MaterialEditorStats: Shader Count: 4
+[2024.02.11-22.13.53:066][383]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.11-22.13.53:067][383]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.02.11-22.13.53:067][383]MaterialEditorStats: Shader Count: 0
+[2024.02.11-22.13.55:333][477]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.11-22.13.55:334][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.55:334][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.55:334][477]MaterialEditorStats: Shader Count: 0
+[2024.02.11-22.13.55:449][480]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.02.11-22.13.55:449][480]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.11-22.13.55:450][480]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.11-22.13.55:450][480]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.55:450][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.55:450][480]MaterialEditorStats: Shader Count: 4
+[2024.02.11-22.13.58:318][616]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.11-22.13.58:318][616]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.58:318][616]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.58:318][616]MaterialEditorStats: Shader Count: 0
+[2024.02.11-22.13.58:981][645]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.11-22.13.58:981][645]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.58:981][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.58:981][645]MaterialEditorStats: Shader Count: 1
+[2024.02.11-22.13.59:391][664]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.02.11-22.13.59:391][664]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.11-22.13.59:391][664]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.11-22.13.59:391][664]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.13.59:391][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.13.59:391][664]MaterialEditorStats: Shader Count: 4
+[2024.02.11-22.14.13:703][392]LogMaterialEditor: Saving and Compiling material GradientMap_Multi_Example
+[2024.02.11-22.14.13:936][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.11-22.14.14:778][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.11-22.14.14:800][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.14.16:554][392]LogSavePackage: Moving output files for package: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example
+[2024.02.11-22.14.16:554][392]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/GradientMap_Multi_Example854B95B14F6F2EEDF75FA8AB074F965D.tmp' to '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.uasset'
+[2024.02.11-22.14.16:605][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.80 sec (total: 2.60 sec)
+[2024.02.11-22.14.16:608][392]AssetCheck: New page: Asset Save: GradientMap_Multi_Example
+[2024.02.11-22.14.16:608][392]LogContentValidation: Display: Validating /Script/Engine.Material /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.GradientMap_Multi_Example
+[2024.02.11-22.14.16:609][392]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.02.11-22.14.16:609][392]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.11-22.14.16:609][392]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.02.11-22.14.16:609][392]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.11-22.14.16:609][392]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.11-22.14.16:609][392]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.11-22.14.16:609][392]MaterialEditorStats: Shader Count: 16
+[2024.02.11-22.14.18:422][473]LogMaterialEditor: Saving and Compiling material GradientMap_Multi_Example
+[2024.02.11-22.14.18:431][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.11-22.14.18:569][473]LogSavePackage: Moving output files for package: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example
+[2024.02.11-22.14.18:569][473]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/GradientMap_Multi_ExampleE4945D5D450BDD76A345B987966C0156.tmp' to '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.uasset'
+[2024.02.11-22.14.18:585][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 2.75 sec)
+[2024.02.11-22.14.18:587][473]AssetCheck: New page: Asset Save: GradientMap_Multi_Example
+[2024.02.11-22.14.18:587][473]LogContentValidation: Display: Validating /Script/Engine.Material /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example.GradientMap_Multi_Example
+[2024.02.11-22.14.21:117][607]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.11-22.14.21:128][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-22.14.21:128][607]PIE: New page: PIE session: MainMenu (12 feb. 2024 0:14:21)
+[2024.02.11-22.14.21:128][607]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_MainMenu
+[2024.02.11-22.14.21:130][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001841s)
+[2024.02.11-22.14.21:130][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/MainMenu.MainMenu to /Game/TopDown/Maps/UEDPIE_0_MainMenu.MainMenu (0.001899s)
+[2024.02.11-22.14.21:156][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.11-22.14.21:157][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.14.21:157][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.14.21:158][607]LogAIModule: Creating AISystem for world MainMenu
+[2024.02.11-22.14.21:158][607]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2024.02.11-22.14.21:158][607]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.11-22.14.21:158][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-22.14.21:158][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-22.14.21:158][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-22.14.21:158][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-22.14.21:158][607]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.11-22.14.21:158][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-22.14.21:158][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.11-22.14.21:158][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-22.14.21:159][607]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.11-22.14.21:159][607]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.11-22.14.21:159][607]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.11-22.14.21:161][607]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.11-22.14.21:192][607]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.11-22.14.21:193][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-22.14.21:193][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-22.14.21:193][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-22.14.21:194][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.11-22.14.21:194][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.11-22.14.21:196][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.11-22.14.21:196][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.11-22.14.21:196][607]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.11-22.14.21:196][607]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2024.02.11-22.14.21:196][607]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.11-22.14.21:200][607]LogLoad: Game class is 'BP_MainMenu_C'
+[2024.02.11-22.14.21:200][607]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.02.11-23.14.21
+[2024.02.11-22.14.21:201][607]LogWorld: Bringing up level for play took: 0.000547
+[2024.02.11-22.14.21:203][607]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.02.11-22.14.21:205][607]PIE: Server logged in
+[2024.02.11-22.14.21:206][607]PIE: Play in editor total start time 0,078 seconds.
+[2024.02.11-22.14.22:066][658]LogNet: Browse: /Game/TopDown/Maps/TopDownMap
+[2024.02.11-22.14.22:066][658]LogLoad: LoadMap: /Game/TopDown/Maps/TopDownMap
+[2024.02.11-22.14.22:066][658]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_MainMenu
+[2024.02.11-22.14.22:067][658]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-22.14.22:067][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.14.22:090][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-22.14.22:092][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.11-22.14.22:104][658]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownMap'.
+[2024.02.11-22.14.22:105][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.11-22.14.22:105][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.11-22.14.22:105][658]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.11-22.14.22:106][658]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.11-22.14.22:106][658]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.11-22.14.22:106][658]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.02.11-22.14.22:106][658]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.11-22.14.22:108][658]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.11-22.14.22:164][658]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 55 ms (total: 520 ms)
+[2024.02.11-22.14.22:168][658]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.11-22.14.22:168][658]LogWorldPartition: Display: WorldPartition initialize took 62 ms (total: 549 ms)
+[2024.02.11-22.14.22:168][658]LogPlayLevel: PIE: World Init took: (0.063449s)
+[2024.02.11-22.14.22:168][658]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.11-22.14.22:222][658]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.11-23.14.22
+[2024.02.11-22.14.22:236][658]LogWorld: Bringing up level for play took: 0.067241
+[2024.02.11-22.14.22:245][658]LogLoad: Took 0.178147 seconds to LoadMap(/Game/TopDown/Maps/TopDownMap)
+[2024.02.11-22.14.31:875][159]Cmd: quit
+[2024.02.11-22.14.31:877][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.14.31:877][159]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.11-22.14.31:904][159]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-22.14.31:907][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.14.31:908][159]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.11-22.14.31:912][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-22.14.31:921][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-22.14.31:948][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-22.14.31:948][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.11-22.14.31:949][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.11-22.14.31:951][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.11-22.14.31:975][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.02.11-22.14.32:053][160]LogPlayLevel: Display: Destroying online subsystem :Context_22
