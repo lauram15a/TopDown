@@ -2673,3 +2673,230 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.12-02.32.15:112][429]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B5678D801_1726182375
 [2024.02.12-02.32.15:112][429]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B5678D801_1759034376
 [2024.02.12-02.32.15:112][429]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B5678D801_1774356377
+[2024.02.12-02.33.49:707][554]LogSlate: Window 'Message Log' being destroyed
+[2024.02.12-02.33.49:714][554]LogSlate: Window 'Message Log' being destroyed
+[2024.02.12-02.34.13:674][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.13:719][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.13:806][651]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.13:879][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.13:924][653]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.13:971][654]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.16:752][771]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow
+[2024.02.12-02.34.16:752][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.16:752][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-02.34.16:769][771]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.02.12-02.34.17:371][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.22:353][958]LogSlate: Window 'BP_Zombie_Slow' being destroyed
+[2024.02.12-02.34.22:377][958]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-02.34.22:377][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-02.34.22:403][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow
+[2024.02.12-02.34.22:403][958]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.22:403][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-02.34.23:426][958]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.12-02.34.49:383][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.49:459][878]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.49:529][879]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.57:833][149]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2024.02.12-02.34.57:833][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.34.57:834][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-02.34.58:254][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.35.33:390][327]LogSlate: Took 0.049368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.12-02.35.36:487][410]BlueprintLog: New page: Compile BP_Zombie
+[2024.02.12-02.35.37:140][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.12-02.35.38:175][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-02.35.38:298][424]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.35.38:342][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Zombie" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset" SILENT=true
+[2024.02.12-02.35.38:359][424]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Zombie
+[2024.02.12-02.35.38:360][424]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_Zombie66116E6C480492046DFB959888D13AEA.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset'
+[2024.02.12-02.35.38:383][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 626 ms)
+[2024.02.12-02.35.38:386][424]AssetCheck: New page: Asset Save: BP_Zombie
+[2024.02.12-02.35.38:386][424]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2024.02.12-02.36.00:133][ 83]BlueprintLog: New page: Compile BP_Zombie
+[2024.02.12-02.36.00:687][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.02.12-02.36.01:868][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-02.36.01:983][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_Zombie" FILE="../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset" SILENT=true
+[2024.02.12-02.36.01:995][107]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Zombie
+[2024.02.12-02.36.01:995][107]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/BP_ZombieA4D591AB49F327152EE9C681B76166DB.tmp' to '../../../../../../TopDown/TopDown/Content/TopDown/Blueprints/BP_Zombie.uasset'
+[2024.02.12-02.36.02:012][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 772 ms)
+[2024.02.12-02.36.02:016][107]AssetCheck: New page: Asset Save: BP_Zombie
+[2024.02.12-02.36.02:016][107]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2024.02.12-02.39.03:917][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.12-02.39.04:136][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/WD/DIXMS85BI2UHLR82MV4ZCU
+[2024.02.12-02.39.04:136][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/DIXMS85BI2UHLR82MV4ZCU43559D664240CD99A1206CA99575908C.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/WD/DIXMS85BI2UHLR82MV4ZCU.uasset'
+[2024.02.12-02.39.04:151][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/21/RY5NENSXYWHBED4EDQIR8P
+[2024.02.12-02.39.04:152][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/RY5NENSXYWHBED4EDQIR8P495F8DDD493BB055993550B29C5B5930.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/21/RY5NENSXYWHBED4EDQIR8P.uasset'
+[2024.02.12-02.39.04:163][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/TP/NKQBW0LZVHI6B1762LHSW7
+[2024.02.12-02.39.04:164][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/NKQBW0LZVHI6B1762LHSW7906AFF17418A4A783C9EFEA2FE01C501.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/TP/NKQBW0LZVHI6B1762LHSW7.uasset'
+[2024.02.12-02.39.04:171][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/ET/9YR6DIP49NVFIWZ4S5V3K1
+[2024.02.12-02.39.04:172][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/9YR6DIP49NVFIWZ4S5V3K137F18EF14431515DBF295194E84194A8.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/ET/9YR6DIP49NVFIWZ4S5V3K1.uasset'
+[2024.02.12-02.39.04:177][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/CC/9N6EN3EFH378MW92VC6P3T
+[2024.02.12-02.39.04:178][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/9N6EN3EFH378MW92VC6P3T3C7EF1F94C30BF785CF775BFFBB5FCFA.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/CC/9N6EN3EFH378MW92VC6P3T.uasset'
+[2024.02.12-02.39.04:184][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/V7/RA28BSDL2XD0CBZVZOLSXH
+[2024.02.12-02.39.04:184][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/RA28BSDL2XD0CBZVZOLSXH0ECC44EC4DFA200FC86F93A5437AD6D7.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/V7/RA28BSDL2XD0CBZVZOLSXH.uasset'
+[2024.02.12-02.39.04:188][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/6X/UYHF2HCEKD5Z1PILY1GT6X
+[2024.02.12-02.39.04:188][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/UYHF2HCEKD5Z1PILY1GT6X7734050245D982ADAACA8FBD307C81EF.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/6X/UYHF2HCEKD5Z1PILY1GT6X.uasset'
+[2024.02.12-02.39.04:193][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/CV/MXLUXXS2NT420Y504CEEOQ
+[2024.02.12-02.39.04:193][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/MXLUXXS2NT420Y504CEEOQ2A6D244B432470C8208746BCC2B9500F.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/CV/MXLUXXS2NT420Y504CEEOQ.uasset'
+[2024.02.12-02.39.04:197][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/5Y/B7J5164LSSIDZFHSPC2LTO
+[2024.02.12-02.39.04:197][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/B7J5164LSSIDZFHSPC2LTOE7C6273F406EDB3FB3AD258D7690199A.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/5Y/B7J5164LSSIDZFHSPC2LTO.uasset'
+[2024.02.12-02.39.04:200][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/K5/V0A1IO2C2274L2IVNW4T9B
+[2024.02.12-02.39.04:201][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/V0A1IO2C2274L2IVNW4T9BB0B1043D44DF860983C457B165A636D8.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/K5/V0A1IO2C2274L2IVNW4T9B.uasset'
+[2024.02.12-02.39.04:205][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/63/LC7VLXU8WIRJGLR2BG2N4O
+[2024.02.12-02.39.04:205][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/LC7VLXU8WIRJGLR2BG2N4O2104F84B45F5645B340219BC886E4764.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/63/LC7VLXU8WIRJGLR2BG2N4O.uasset'
+[2024.02.12-02.39.04:210][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/7K/L2HGSLR7V4USS79COINF3S
+[2024.02.12-02.39.04:210][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/L2HGSLR7V4USS79COINF3SE651D02745CDC2FCACE32F844A9CF8C8.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/7K/L2HGSLR7V4USS79COINF3S.uasset'
+[2024.02.12-02.39.04:215][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/XK/NY2WX7QETAES2R5EOE23T8
+[2024.02.12-02.39.04:215][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/NY2WX7QETAES2R5EOE23T8D6535AAE46916880A2A3B2A2C8CF15BE.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/XK/NY2WX7QETAES2R5EOE23T8.uasset'
+[2024.02.12-02.39.04:220][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/5G/CI2Y5O65X27IG1EEHQWEVZ
+[2024.02.12-02.39.04:220][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/CI2Y5O65X27IG1EEHQWEVZ1AAAFFD24C58EA2B726E74A458AE927B.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/5G/CI2Y5O65X27IG1EEHQWEVZ.uasset'
+[2024.02.12-02.39.04:223][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/1H/MO50WBAL6QWYJ4T33KLZIQ
+[2024.02.12-02.39.04:223][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/MO50WBAL6QWYJ4T33KLZIQ971146C248FD9BE50738CD9B9701D769.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/1H/MO50WBAL6QWYJ4T33KLZIQ.uasset'
+[2024.02.12-02.39.04:230][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/7L/J42OBD51PBFMKH4D5BYFJN
+[2024.02.12-02.39.04:230][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/J42OBD51PBFMKH4D5BYFJN6BD40BE04F9848D89B240290E956E378.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/7L/J42OBD51PBFMKH4D5BYFJN.uasset'
+[2024.02.12-02.39.04:236][418]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/10/QH35H0UQV00P56FCSDDAGC
+[2024.02.12-02.39.04:236][418]LogSavePackage: Moving '../../../../../../TopDown/TopDown/Saved/QH35H0UQV00P56FCSDDAGC03472DB64C4D0D4DD673A2A5EF8DAB64.tmp' to '../../../../../../TopDown/TopDown/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/10/QH35H0UQV00P56FCSDDAGC.uasset'
+[2024.02.12-02.39.04:247][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 330 ms (total: 1.10 sec)
+[2024.02.12-02.39.04:252][418]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B56D2D701_2060377180
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B565ED801_1288392809
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B56D2D701_2061122181
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B56D2D701_2063671184
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B565ED801_1197628805
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_UAID_10E7C66C3B56D2D701_1976005177
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_UAID_10E7C66C3B56D2D701_1976741178
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B56D2D701_2061822182
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_UAID_10E7C66C3B56D2D701_1975288176
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_UAID_10E7C66C3B56D2D701_1977587179
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_UAID_10E7C66C3B565ED801_1253253807
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_C_UAID_10E7C66C3B565ED801_1243536806
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B56D2D701_2062515183
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B565ED801_1269822808
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B5678D801_1726182375
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B5678D801_1759034376
+[2024.02.12-02.39.04:252][418]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/BP_Zombie_Slow.BP_Zombie_Slow_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Zombie_Slow_C_UAID_10E7C66C3B5678D801_1774356377
+[2024.02.12-02.39.06:769][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.12-02.39.06:783][538]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.12-02.39.06:783][538]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2024.02.12-02.39.06:787][538]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 4 ms (total: 20 ms)
+[2024.02.12-02.39.06:788][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.12-02.39.06:788][538]PIE: New page: PIE session: TopDownMap (12 feb. 2024 4:39:06)
+[2024.02.12-02.39.06:788][538]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.12-02.39.06:813][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024785s)
+[2024.02.12-02.39.06:813][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.024832s)
+[2024.02.12-02.39.06:847][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.02.12-02.39.06:851][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.39.06:851][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-02.39.06:851][538]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.12-02.39.06:853][538]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.12-02.39.06:853][538]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.12-02.39.06:853][538]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.12-02.39.06:853][538]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.12-02.39.06:858][538]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.12-02.39.06:858][538]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 409 ms)
+[2024.02.12-02.39.06:858][538]LogPlayLevel: PIE: World Init took: (0.006641s)
+[2024.02.12-02.39.06:858][538]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.12-02.39.06:858][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.12-02.39.06:858][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.12-02.39.06:858][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.12-02.39.06:858][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.12-02.39.06:858][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.12-02.39.06:858][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.12-02.39.06:858][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.12-02.39.06:858][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.12-02.39.06:859][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.12-02.39.06:859][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.12-02.39.06:859][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.12-02.39.06:861][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.12-02.39.06:894][538]LogAudioMixer: Display: Using Audio Hardware Device Altavoz/Auricular (Realtek High Definition Audio(SST))
+[2024.02.12-02.39.06:894][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.12-02.39.06:894][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.12-02.39.06:894][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.12-02.39.06:896][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.12-02.39.06:896][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.12-02.39.06:898][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.12-02.39.06:898][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.12-02.39.06:898][538]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.12-02.39.06:898][538]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2024.02.12-02.39.06:898][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.12-02.39.06:900][538]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.12-02.39.06:942][538]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.12-03.39.06
+[2024.02.12-02.39.06:956][538]LogWorld: Bringing up level for play took: 0.054204
+[2024.02.12-02.39.06:958][538]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.02.12-02.39.06:966][538]PIE: Server logged in
+[2024.02.12-02.39.06:967][538]PIE: Play in editor total start time 0,184 seconds.
+[2024.02.12-02.39.14:830][896]LogNet: Browse: /Game/TopDown/Maps/TopDownMap
+[2024.02.12-02.39.14:830][896]LogLoad: LoadMap: /Game/TopDown/Maps/TopDownMap
+[2024.02.12-02.39.14:830][896]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.12-02.39.14:833][896]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-02.39.14:836][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-02.39.14:837][896]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.12-02.39.14:868][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.12-02.39.14:879][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.02.12-02.39.14:884][896]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.12-02.39.14:903][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018399s)
+[2024.02.12-02.39.14:903][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.018461s)
+[2024.02.12-02.39.14:903][896]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2024.02.12-02.39.14:903][896]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.39.14:903][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-02.39.14:903][896]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.12-02.39.14:904][896]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.12-02.39.14:904][896]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.12-02.39.14:904][896]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.12-02.39.14:904][896]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.12-02.39.14:908][896]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.12-02.39.14:908][896]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 413 ms)
+[2024.02.12-02.39.14:908][896]LogPlayLevel: PIE: World Init took: (0.005759s)
+[2024.02.12-02.39.14:908][896]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.12-02.39.14:948][896]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.12-03.39.14
+[2024.02.12-02.39.14:963][896]LogWorld: Bringing up level for play took: 0.054400
+[2024.02.12-02.39.14:971][896]LogLoad: Took 0.140040 seconds to LoadMap(/Game/TopDown/Maps/UEDPIE_0_TopDownMap)
+[2024.02.12-02.39.26:893][434]LogNet: Browse: /Game/TopDown/Maps/TopDownMap
+[2024.02.12-02.39.26:893][434]LogLoad: LoadMap: /Game/TopDown/Maps/TopDownMap
+[2024.02.12-02.39.26:893][434]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.12-02.39.26:895][434]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-02.39.26:897][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-02.39.26:897][434]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.12-02.39.26:965][434]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.12-02.39.26:979][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.02.12-02.39.26:983][434]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.12-02.39.27:002][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018707s)
+[2024.02.12-02.39.27:002][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.018767s)
+[2024.02.12-02.39.27:002][434]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2024.02.12-02.39.27:002][434]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.12-02.39.27:002][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.12-02.39.27:002][434]LogAIModule: Creating AISystem for world TopDownMap
+[2024.02.12-02.39.27:003][434]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.12-02.39.27:003][434]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.12-02.39.27:003][434]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.12-02.39.27:003][434]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.12-02.39.27:008][434]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.02.12-02.39.27:008][434]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 418 ms)
+[2024.02.12-02.39.27:008][434]LogPlayLevel: PIE: World Init took: (0.006007s)
+[2024.02.12-02.39.27:008][434]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.12-02.39.27:047][434]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.02.12-03.39.27
+[2024.02.12-02.39.27:061][434]LogWorld: Bringing up level for play took: 0.052549
+[2024.02.12-02.39.27:068][434]LogLoad: Took 0.175402 seconds to LoadMap(/Game/TopDown/Maps/UEDPIE_0_TopDownMap)
+[2024.02.12-02.41.07:941][767]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.12-02.41.07:941][767]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.W_DialogueWidget_C_0
+[2024.02.12-02.41.07:957][768]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.12-02.41.07:957][768]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.W_DialogueWidget_C_0
+[2024.02.12-02.41.07:974][769]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.12-02.41.07:974][769]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.W_DialogueWidget_C_0
+[2024.02.12-02.41.07:991][770]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.12-02.41.07:991][770]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.W_DialogueWidget_C_0
+[2024.02.12-02.41.08:008][771]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'TextList' of length 0 in '/Game/DialogueSystem/W_DialogueWidget.W_DialogueWidget_C'!
+[2024.02.12-02.41.08:008][771]LogScript: Warning: Script Msg called by: W_DialogueWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.W_DialogueWidget_C_0
+[2024.02.12-02.41.20:037][490]Cmd: quit
+[2024.02.12-02.41.20:038][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.12-02.41.20:038][490]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.02.12-02.41.20:062][490]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.12-02.41.20:064][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-02.41.20:064][490]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.02.12-02.41.20:069][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.12-02.41.20:079][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.12-02.41.20:114][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.12-02.41.20:114][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.12-02.41.20:114][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.12-02.41.20:116][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.12-02.41.20:128][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.12-02.41.20:404][491]LogPlayLevel: Display: Destroying online subsystem :Context_20
